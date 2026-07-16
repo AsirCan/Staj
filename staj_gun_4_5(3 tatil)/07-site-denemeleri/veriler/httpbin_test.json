@@ -1,0 +1,8 @@
+[
+  {
+    "delay_test": {
+      "beklenen_sure": 2,
+      "gercek_sure": 0.76
+    }
+  }
+]

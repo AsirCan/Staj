@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "baslik": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "govde": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit ",
+    "kullanici_id": 1
+  },
+  {
+    "id": 2,
+    "baslik": "qui est esse",
+    "govde": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores n",
+    "kullanici_id": 1
+  },
+  {
+    "id": 3,
+    "baslik": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+    "govde": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem dolo",
+    "kullanici_id": 1
+  },
+  {
+    "id": 4,
+    "baslik": "eum et est occaecati",
+    "govde": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident",
+    "kullanici_id": 1
+  },
+  {
+    "id": 5,
+    "baslik": "nesciunt quas odio",
+    "govde": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptate",
+    "kullanici_id": 1
+  },
+  {
+    "id": 6,
+    "baslik": "dolorem eum magni eos aperiam quia",
+    "govde": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid m",
+    "kullanici_id": 1
+  },
+  {
+    "id": 7,
+    "baslik": "magnam facilis autem",
+    "govde": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saep",
+    "kullanici_id": 1
+  },
+  {
+    "id": 8,
+    "baslik": "dolorem dolore est ipsam",
+    "govde": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui si",
+    "kullanici_id": 1
+  },
+  {
+    "id": 9,
+    "baslik": "nesciunt iure omnis dolorem tempora et accusantium",
+    "govde": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nob",
+    "kullanici_id": 1
+  },
+  {
+    "id": 10,
+    "baslik": "optio molestias id quia eum",
+    "govde": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi s",
+    "kullanici_id": 1
+  },
+  {
+    "id": 101,
+    "baslik": "Test Post (POST ile olusturuldu)",
+    "govde": "Scraping calismasi",
+    "kullanici_id": 1,
+    "http_metodu": "POST",
+    "status_code": 201
+  }
+]

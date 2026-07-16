@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "isim": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "sehir": "Gwenborough",
+    "sirket": "Romaguera-Crona"
+  },
+  {
+    "id": 2,
+    "isim": "Ervin Howell",
+    "email": "Shanna@melissa.tv",
+    "sehir": "Wisokyburgh",
+    "sirket": "Deckow-Crist"
+  },
+  {
+    "id": 3,
+    "isim": "Clementine Bauch",
+    "email": "Nathan@yesenia.net",
+    "sehir": "McKenziehaven",
+    "sirket": "Romaguera-Jacobson"
+  },
+  {
+    "id": 4,
+    "isim": "Patricia Lebsack",
+    "email": "Julianne.OConner@kory.org",
+    "sehir": "South Elvis",
+    "sirket": "Robel-Corkery"
+  },
+  {
+    "id": 5,
+    "isim": "Chelsey Dietrich",
+    "email": "Lucio_Hettinger@annie.ca",
+    "sehir": "Roscoeview",
+    "sirket": "Keebler LLC"
+  },
+  {
+    "id": 6,
+    "isim": "Mrs. Dennis Schulist",
+    "email": "Karley_Dach@jasper.info",
+    "sehir": "South Christy",
+    "sirket": "Considine-Lockman"
+  },
+  {
+    "id": 7,
+    "isim": "Kurtis Weissnat",
+    "email": "Telly.Hoeger@billy.biz",
+    "sehir": "Howemouth",
+    "sirket": "Johns Group"
+  },
+  {
+    "id": 8,
+    "isim": "Nicholas Runolfsdottir V",
+    "email": "Sherwood@rosamond.me",
+    "sehir": "Aliyaview",
+    "sirket": "Abernathy Group"
+  },
+  {
+    "id": 9,
+    "isim": "Glenna Reichert",
+    "email": "Chaim_McDermott@dana.io",
+    "sehir": "Bartholomebury",
+    "sirket": "Yost and Sons"
+  },
+  {
+    "id": 10,
+    "isim": "Clementina DuBuque",
+    "email": "Rey.Padberg@karina.biz",
+    "sehir": "Lebsackbury",
+    "sirket": "Hoeger LLC"
+  }
+]

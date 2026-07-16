@@ -1,0 +1,122 @@
+[
+  {
+    "id": 48930454,
+    "baslik": "The lost joy of music piracy",
+    "yazar": "mcgin",
+    "puan": 361,
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "yorum_sayisi": 203
+  },
+  {
+    "id": 48924912,
+    "baslik": "Inkling: Our Open-Weights Model",
+    "yazar": "vimarsh6739",
+    "puan": 998,
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "yorum_sayisi": 249
+  },
+  {
+    "id": 48931588,
+    "baslik": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "yazar": "ohong",
+    "puan": 37,
+    "url": "https://joinedanthropic.com",
+    "yorum_sayisi": 9
+  },
+  {
+    "id": 48930136,
+    "baslik": "If you want to create a button from scratch, you must first create the universe",
+    "yazar": "treve",
+    "puan": 144,
+    "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+    "yorum_sayisi": 64
+  },
+  {
+    "id": 48883036,
+    "baslik": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+    "yazar": "speckx",
+    "puan": 70,
+    "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+    "yorum_sayisi": 27
+  },
+  {
+    "id": 48929945,
+    "baslik": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+    "yazar": "gslin",
+    "puan": 105,
+    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "yorum_sayisi": 17
+  },
+  {
+    "id": 48926590,
+    "baslik": "Grok Build is open source",
+    "yazar": "skp1995",
+    "puan": 460,
+    "url": "https://github.com/xai-org/grok-build",
+    "yorum_sayisi": 505
+  },
+  {
+    "id": 48928135,
+    "baslik": "SQLite should have (Rust-style) editions",
+    "yazar": "gnyeki",
+    "puan": 281,
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "yorum_sayisi": 125
+  },
+  {
+    "id": 48927095,
+    "baslik": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "yazar": "bilsbie",
+    "puan": 203,
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "yorum_sayisi": 75
+  },
+  {
+    "id": 48915953,
+    "baslik": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+    "yazar": "rvz",
+    "puan": 448,
+    "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+    "yorum_sayisi": 260
+  },
+  {
+    "id": 48929351,
+    "baslik": "Bluesky Trademarks ATProto",
+    "yazar": "chaosharmonic",
+    "puan": 108,
+    "url": "https://atproto.com/blog/at-protocol-trademark",
+    "yorum_sayisi": 48
+  },
+  {
+    "id": 48930397,
+    "baslik": "Reynard: A real Firefox web browser for iOS 13 or later",
+    "yazar": "AbuAssar",
+    "puan": 52,
+    "url": "https://github.com/minh-ton/reynard-browser",
+    "yorum_sayisi": 14
+  },
+  {
+    "id": 48911803,
+    "baslik": "I also filed the corners off my MacBook",
+    "yazar": "maxbrt",
+    "puan": 196,
+    "url": "https://www.brt.fyi/posts/mac-book-filing/",
+    "yorum_sayisi": 98
+  },
+  {
+    "id": 48882777,
+    "baslik": "In defense of not understanding your codebase",
+    "yazar": "saikatsg",
+    "puan": 11,
+    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "yorum_sayisi": 10
+  },
+  {
+    "id": 48930075,
+    "baslik": "Making 768 servers look like 1",
+    "yazar": "hisamafahri",
+    "puan": 85,
+    "url": "https://planetscale.com/blog/making-768-servers-look-like-1",
+    "yorum_sayisi": 15
+  }
+]

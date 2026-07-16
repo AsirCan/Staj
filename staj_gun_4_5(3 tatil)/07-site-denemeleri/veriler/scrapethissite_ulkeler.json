@@ -1,0 +1,1502 @@
+[
+  {
+    "ulke": "Andorra",
+    "baskent": "Andorra la Vella",
+    "nufus": "84000",
+    "alan_km2": "468.0"
+  },
+  {
+    "ulke": "United Arab Emirates",
+    "baskent": "Abu Dhabi",
+    "nufus": "4975593",
+    "alan_km2": "82880.0"
+  },
+  {
+    "ulke": "Afghanistan",
+    "baskent": "Kabul",
+    "nufus": "29121286",
+    "alan_km2": "647500.0"
+  },
+  {
+    "ulke": "Antigua and Barbuda",
+    "baskent": "St. John's",
+    "nufus": "86754",
+    "alan_km2": "443.0"
+  },
+  {
+    "ulke": "Anguilla",
+    "baskent": "The Valley",
+    "nufus": "13254",
+    "alan_km2": "102.0"
+  },
+  {
+    "ulke": "Albania",
+    "baskent": "Tirana",
+    "nufus": "2986952",
+    "alan_km2": "28748.0"
+  },
+  {
+    "ulke": "Armenia",
+    "baskent": "Yerevan",
+    "nufus": "2968000",
+    "alan_km2": "29800.0"
+  },
+  {
+    "ulke": "Angola",
+    "baskent": "Luanda",
+    "nufus": "13068161",
+    "alan_km2": "1246700.0"
+  },
+  {
+    "ulke": "Antarctica",
+    "baskent": "None",
+    "nufus": "0",
+    "alan_km2": "1.4E7"
+  },
+  {
+    "ulke": "Argentina",
+    "baskent": "Buenos Aires",
+    "nufus": "41343201",
+    "alan_km2": "2766890.0"
+  },
+  {
+    "ulke": "American Samoa",
+    "baskent": "Pago Pago",
+    "nufus": "57881",
+    "alan_km2": "199.0"
+  },
+  {
+    "ulke": "Austria",
+    "baskent": "Vienna",
+    "nufus": "8205000",
+    "alan_km2": "83858.0"
+  },
+  {
+    "ulke": "Australia",
+    "baskent": "Canberra",
+    "nufus": "21515754",
+    "alan_km2": "7686850.0"
+  },
+  {
+    "ulke": "Aruba",
+    "baskent": "Oranjestad",
+    "nufus": "71566",
+    "alan_km2": "193.0"
+  },
+  {
+    "ulke": "Åland",
+    "baskent": "Mariehamn",
+    "nufus": "26711",
+    "alan_km2": "1580.0"
+  },
+  {
+    "ulke": "Azerbaijan",
+    "baskent": "Baku",
+    "nufus": "8303512",
+    "alan_km2": "86600.0"
+  },
+  {
+    "ulke": "Bosnia and Herzegovina",
+    "baskent": "Sarajevo",
+    "nufus": "4590000",
+    "alan_km2": "51129.0"
+  },
+  {
+    "ulke": "Barbados",
+    "baskent": "Bridgetown",
+    "nufus": "285653",
+    "alan_km2": "431.0"
+  },
+  {
+    "ulke": "Bangladesh",
+    "baskent": "Dhaka",
+    "nufus": "156118464",
+    "alan_km2": "144000.0"
+  },
+  {
+    "ulke": "Belgium",
+    "baskent": "Brussels",
+    "nufus": "10403000",
+    "alan_km2": "30510.0"
+  },
+  {
+    "ulke": "Burkina Faso",
+    "baskent": "Ouagadougou",
+    "nufus": "16241811",
+    "alan_km2": "274200.0"
+  },
+  {
+    "ulke": "Bulgaria",
+    "baskent": "Sofia",
+    "nufus": "7148785",
+    "alan_km2": "110910.0"
+  },
+  {
+    "ulke": "Bahrain",
+    "baskent": "Manama",
+    "nufus": "738004",
+    "alan_km2": "665.0"
+  },
+  {
+    "ulke": "Burundi",
+    "baskent": "Bujumbura",
+    "nufus": "9863117",
+    "alan_km2": "27830.0"
+  },
+  {
+    "ulke": "Benin",
+    "baskent": "Porto-Novo",
+    "nufus": "9056010",
+    "alan_km2": "112620.0"
+  },
+  {
+    "ulke": "Saint Barthélemy",
+    "baskent": "Gustavia",
+    "nufus": "8450",
+    "alan_km2": "21.0"
+  },
+  {
+    "ulke": "Bermuda",
+    "baskent": "Hamilton",
+    "nufus": "65365",
+    "alan_km2": "53.0"
+  },
+  {
+    "ulke": "Brunei",
+    "baskent": "Bandar Seri Begawan",
+    "nufus": "395027",
+    "alan_km2": "5770.0"
+  },
+  {
+    "ulke": "Bolivia",
+    "baskent": "Sucre",
+    "nufus": "9947418",
+    "alan_km2": "1098580.0"
+  },
+  {
+    "ulke": "Bonaire",
+    "baskent": "Kralendijk",
+    "nufus": "18012",
+    "alan_km2": "328.0"
+  },
+  {
+    "ulke": "Brazil",
+    "baskent": "Brasília",
+    "nufus": "201103330",
+    "alan_km2": "8511965.0"
+  },
+  {
+    "ulke": "Bahamas",
+    "baskent": "Nassau",
+    "nufus": "301790",
+    "alan_km2": "13940.0"
+  },
+  {
+    "ulke": "Bhutan",
+    "baskent": "Thimphu",
+    "nufus": "699847",
+    "alan_km2": "47000.0"
+  },
+  {
+    "ulke": "Bouvet Island",
+    "baskent": "None",
+    "nufus": "0",
+    "alan_km2": "49.0"
+  },
+  {
+    "ulke": "Botswana",
+    "baskent": "Gaborone",
+    "nufus": "2029307",
+    "alan_km2": "600370.0"
+  },
+  {
+    "ulke": "Belarus",
+    "baskent": "Minsk",
+    "nufus": "9685000",
+    "alan_km2": "207600.0"
+  },
+  {
+    "ulke": "Belize",
+    "baskent": "Belmopan",
+    "nufus": "314522",
+    "alan_km2": "22966.0"
+  },
+  {
+    "ulke": "Canada",
+    "baskent": "Ottawa",
+    "nufus": "33679000",
+    "alan_km2": "9984670.0"
+  },
+  {
+    "ulke": "Cocos [Keeling] Islands",
+    "baskent": "West Island",
+    "nufus": "628",
+    "alan_km2": "14.0"
+  },
+  {
+    "ulke": "Democratic Republic of the Congo",
+    "baskent": "Kinshasa",
+    "nufus": "70916439",
+    "alan_km2": "2345410.0"
+  },
+  {
+    "ulke": "Central African Republic",
+    "baskent": "Bangui",
+    "nufus": "4844927",
+    "alan_km2": "622984.0"
+  },
+  {
+    "ulke": "Republic of the Congo",
+    "baskent": "Brazzaville",
+    "nufus": "3039126",
+    "alan_km2": "342000.0"
+  },
+  {
+    "ulke": "Switzerland",
+    "baskent": "Bern",
+    "nufus": "7581000",
+    "alan_km2": "41290.0"
+  },
+  {
+    "ulke": "Ivory Coast",
+    "baskent": "Yamoussoukro",
+    "nufus": "21058798",
+    "alan_km2": "322460.0"
+  },
+  {
+    "ulke": "Cook Islands",
+    "baskent": "Avarua",
+    "nufus": "21388",
+    "alan_km2": "240.0"
+  },
+  {
+    "ulke": "Chile",
+    "baskent": "Santiago",
+    "nufus": "16746491",
+    "alan_km2": "756950.0"
+  },
+  {
+    "ulke": "Cameroon",
+    "baskent": "Yaoundé",
+    "nufus": "19294149",
+    "alan_km2": "475440.0"
+  },
+  {
+    "ulke": "China",
+    "baskent": "Beijing",
+    "nufus": "1330044000",
+    "alan_km2": "9596960.0"
+  },
+  {
+    "ulke": "Colombia",
+    "baskent": "Bogotá",
+    "nufus": "47790000",
+    "alan_km2": "1138910.0"
+  },
+  {
+    "ulke": "Costa Rica",
+    "baskent": "San José",
+    "nufus": "4516220",
+    "alan_km2": "51100.0"
+  },
+  {
+    "ulke": "Cuba",
+    "baskent": "Havana",
+    "nufus": "11423000",
+    "alan_km2": "110860.0"
+  },
+  {
+    "ulke": "Cape Verde",
+    "baskent": "Praia",
+    "nufus": "508659",
+    "alan_km2": "4033.0"
+  },
+  {
+    "ulke": "Curacao",
+    "baskent": "Willemstad",
+    "nufus": "141766",
+    "alan_km2": "444.0"
+  },
+  {
+    "ulke": "Christmas Island",
+    "baskent": "Flying Fish Cove",
+    "nufus": "1500",
+    "alan_km2": "135.0"
+  },
+  {
+    "ulke": "Cyprus",
+    "baskent": "Nicosia",
+    "nufus": "1102677",
+    "alan_km2": "9250.0"
+  },
+  {
+    "ulke": "Czech Republic",
+    "baskent": "Prague",
+    "nufus": "10476000",
+    "alan_km2": "78866.0"
+  },
+  {
+    "ulke": "Germany",
+    "baskent": "Berlin",
+    "nufus": "81802257",
+    "alan_km2": "357021.0"
+  },
+  {
+    "ulke": "Djibouti",
+    "baskent": "Djibouti",
+    "nufus": "740528",
+    "alan_km2": "23000.0"
+  },
+  {
+    "ulke": "Denmark",
+    "baskent": "Copenhagen",
+    "nufus": "5484000",
+    "alan_km2": "43094.0"
+  },
+  {
+    "ulke": "Dominica",
+    "baskent": "Roseau",
+    "nufus": "72813",
+    "alan_km2": "754.0"
+  },
+  {
+    "ulke": "Dominican Republic",
+    "baskent": "Santo Domingo",
+    "nufus": "9823821",
+    "alan_km2": "48730.0"
+  },
+  {
+    "ulke": "Algeria",
+    "baskent": "Algiers",
+    "nufus": "34586184",
+    "alan_km2": "2381740.0"
+  },
+  {
+    "ulke": "Ecuador",
+    "baskent": "Quito",
+    "nufus": "14790608",
+    "alan_km2": "283560.0"
+  },
+  {
+    "ulke": "Estonia",
+    "baskent": "Tallinn",
+    "nufus": "1291170",
+    "alan_km2": "45226.0"
+  },
+  {
+    "ulke": "Egypt",
+    "baskent": "Cairo",
+    "nufus": "80471869",
+    "alan_km2": "1001450.0"
+  },
+  {
+    "ulke": "Western Sahara",
+    "baskent": "Laâyoune / El Aaiún",
+    "nufus": "273008",
+    "alan_km2": "266000.0"
+  },
+  {
+    "ulke": "Eritrea",
+    "baskent": "Asmara",
+    "nufus": "5792984",
+    "alan_km2": "121320.0"
+  },
+  {
+    "ulke": "Spain",
+    "baskent": "Madrid",
+    "nufus": "46505963",
+    "alan_km2": "504782.0"
+  },
+  {
+    "ulke": "Ethiopia",
+    "baskent": "Addis Ababa",
+    "nufus": "88013491",
+    "alan_km2": "1127127.0"
+  },
+  {
+    "ulke": "Finland",
+    "baskent": "Helsinki",
+    "nufus": "5244000",
+    "alan_km2": "337030.0"
+  },
+  {
+    "ulke": "Fiji",
+    "baskent": "Suva",
+    "nufus": "875983",
+    "alan_km2": "18270.0"
+  },
+  {
+    "ulke": "Falkland Islands",
+    "baskent": "Stanley",
+    "nufus": "2638",
+    "alan_km2": "12173.0"
+  },
+  {
+    "ulke": "Micronesia",
+    "baskent": "Palikir",
+    "nufus": "107708",
+    "alan_km2": "702.0"
+  },
+  {
+    "ulke": "Faroe Islands",
+    "baskent": "Tórshavn",
+    "nufus": "48228",
+    "alan_km2": "1399.0"
+  },
+  {
+    "ulke": "France",
+    "baskent": "Paris",
+    "nufus": "64768389",
+    "alan_km2": "547030.0"
+  },
+  {
+    "ulke": "Gabon",
+    "baskent": "Libreville",
+    "nufus": "1545255",
+    "alan_km2": "267667.0"
+  },
+  {
+    "ulke": "United Kingdom",
+    "baskent": "London",
+    "nufus": "62348447",
+    "alan_km2": "244820.0"
+  },
+  {
+    "ulke": "Grenada",
+    "baskent": "St. George's",
+    "nufus": "107818",
+    "alan_km2": "344.0"
+  },
+  {
+    "ulke": "Georgia",
+    "baskent": "Tbilisi",
+    "nufus": "4630000",
+    "alan_km2": "69700.0"
+  },
+  {
+    "ulke": "French Guiana",
+    "baskent": "Cayenne",
+    "nufus": "195506",
+    "alan_km2": "91000.0"
+  },
+  {
+    "ulke": "Guernsey",
+    "baskent": "St Peter Port",
+    "nufus": "65228",
+    "alan_km2": "78.0"
+  },
+  {
+    "ulke": "Ghana",
+    "baskent": "Accra",
+    "nufus": "24339838",
+    "alan_km2": "239460.0"
+  },
+  {
+    "ulke": "Gibraltar",
+    "baskent": "Gibraltar",
+    "nufus": "27884",
+    "alan_km2": "6.5"
+  },
+  {
+    "ulke": "Greenland",
+    "baskent": "Nuuk",
+    "nufus": "56375",
+    "alan_km2": "2166086.0"
+  },
+  {
+    "ulke": "Gambia",
+    "baskent": "Bathurst",
+    "nufus": "1593256",
+    "alan_km2": "11300.0"
+  },
+  {
+    "ulke": "Guinea",
+    "baskent": "Conakry",
+    "nufus": "10324025",
+    "alan_km2": "245857.0"
+  },
+  {
+    "ulke": "Guadeloupe",
+    "baskent": "Basse-Terre",
+    "nufus": "443000",
+    "alan_km2": "1780.0"
+  },
+  {
+    "ulke": "Equatorial Guinea",
+    "baskent": "Malabo",
+    "nufus": "1014999",
+    "alan_km2": "28051.0"
+  },
+  {
+    "ulke": "Greece",
+    "baskent": "Athens",
+    "nufus": "11000000",
+    "alan_km2": "131940.0"
+  },
+  {
+    "ulke": "South Georgia and the South Sandwich Islands",
+    "baskent": "Grytviken",
+    "nufus": "30",
+    "alan_km2": "3903.0"
+  },
+  {
+    "ulke": "Guatemala",
+    "baskent": "Guatemala City",
+    "nufus": "13550440",
+    "alan_km2": "108890.0"
+  },
+  {
+    "ulke": "Guam",
+    "baskent": "Hagåtña",
+    "nufus": "159358",
+    "alan_km2": "549.0"
+  },
+  {
+    "ulke": "Guinea-Bissau",
+    "baskent": "Bissau",
+    "nufus": "1565126",
+    "alan_km2": "36120.0"
+  },
+  {
+    "ulke": "Guyana",
+    "baskent": "Georgetown",
+    "nufus": "748486",
+    "alan_km2": "214970.0"
+  },
+  {
+    "ulke": "Hong Kong",
+    "baskent": "Hong Kong",
+    "nufus": "6898686",
+    "alan_km2": "1092.0"
+  },
+  {
+    "ulke": "Heard Island and McDonald Islands",
+    "baskent": "None",
+    "nufus": "0",
+    "alan_km2": "412.0"
+  },
+  {
+    "ulke": "Honduras",
+    "baskent": "Tegucigalpa",
+    "nufus": "7989415",
+    "alan_km2": "112090.0"
+  },
+  {
+    "ulke": "Croatia",
+    "baskent": "Zagreb",
+    "nufus": "4491000",
+    "alan_km2": "56542.0"
+  },
+  {
+    "ulke": "Haiti",
+    "baskent": "Port-au-Prince",
+    "nufus": "9648924",
+    "alan_km2": "27750.0"
+  },
+  {
+    "ulke": "Hungary",
+    "baskent": "Budapest",
+    "nufus": "9982000",
+    "alan_km2": "93030.0"
+  },
+  {
+    "ulke": "Indonesia",
+    "baskent": "Jakarta",
+    "nufus": "242968342",
+    "alan_km2": "1919440.0"
+  },
+  {
+    "ulke": "Ireland",
+    "baskent": "Dublin",
+    "nufus": "4622917",
+    "alan_km2": "70280.0"
+  },
+  {
+    "ulke": "Israel",
+    "baskent": "None",
+    "nufus": "7353985",
+    "alan_km2": "20770.0"
+  },
+  {
+    "ulke": "Isle of Man",
+    "baskent": "Douglas",
+    "nufus": "75049",
+    "alan_km2": "572.0"
+  },
+  {
+    "ulke": "India",
+    "baskent": "New Delhi",
+    "nufus": "1173108018",
+    "alan_km2": "3287590.0"
+  },
+  {
+    "ulke": "British Indian Ocean Territory",
+    "baskent": "None",
+    "nufus": "4000",
+    "alan_km2": "60.0"
+  },
+  {
+    "ulke": "Iraq",
+    "baskent": "Baghdad",
+    "nufus": "29671605",
+    "alan_km2": "437072.0"
+  },
+  {
+    "ulke": "Iran",
+    "baskent": "Tehran",
+    "nufus": "76923300",
+    "alan_km2": "1648000.0"
+  },
+  {
+    "ulke": "Iceland",
+    "baskent": "Reykjavik",
+    "nufus": "308910",
+    "alan_km2": "103000.0"
+  },
+  {
+    "ulke": "Italy",
+    "baskent": "Rome",
+    "nufus": "60340328",
+    "alan_km2": "301230.0"
+  },
+  {
+    "ulke": "Jersey",
+    "baskent": "Saint Helier",
+    "nufus": "90812",
+    "alan_km2": "116.0"
+  },
+  {
+    "ulke": "Jamaica",
+    "baskent": "Kingston",
+    "nufus": "2847232",
+    "alan_km2": "10991.0"
+  },
+  {
+    "ulke": "Jordan",
+    "baskent": "Amman",
+    "nufus": "6407085",
+    "alan_km2": "92300.0"
+  },
+  {
+    "ulke": "Japan",
+    "baskent": "Tokyo",
+    "nufus": "127288000",
+    "alan_km2": "377835.0"
+  },
+  {
+    "ulke": "Kenya",
+    "baskent": "Nairobi",
+    "nufus": "40046566",
+    "alan_km2": "582650.0"
+  },
+  {
+    "ulke": "Kyrgyzstan",
+    "baskent": "Bishkek",
+    "nufus": "5776500",
+    "alan_km2": "198500.0"
+  },
+  {
+    "ulke": "Cambodia",
+    "baskent": "Phnom Penh",
+    "nufus": "14453680",
+    "alan_km2": "181040.0"
+  },
+  {
+    "ulke": "Kiribati",
+    "baskent": "Tarawa",
+    "nufus": "92533",
+    "alan_km2": "811.0"
+  },
+  {
+    "ulke": "Comoros",
+    "baskent": "Moroni",
+    "nufus": "773407",
+    "alan_km2": "2170.0"
+  },
+  {
+    "ulke": "Saint Kitts and Nevis",
+    "baskent": "Basseterre",
+    "nufus": "51134",
+    "alan_km2": "261.0"
+  },
+  {
+    "ulke": "North Korea",
+    "baskent": "Pyongyang",
+    "nufus": "22912177",
+    "alan_km2": "120540.0"
+  },
+  {
+    "ulke": "South Korea",
+    "baskent": "Seoul",
+    "nufus": "48422644",
+    "alan_km2": "98480.0"
+  },
+  {
+    "ulke": "Kuwait",
+    "baskent": "Kuwait City",
+    "nufus": "2789132",
+    "alan_km2": "17820.0"
+  },
+  {
+    "ulke": "Cayman Islands",
+    "baskent": "George Town",
+    "nufus": "44270",
+    "alan_km2": "262.0"
+  },
+  {
+    "ulke": "Kazakhstan",
+    "baskent": "Astana",
+    "nufus": "15340000",
+    "alan_km2": "2717300.0"
+  },
+  {
+    "ulke": "Laos",
+    "baskent": "Vientiane",
+    "nufus": "6368162",
+    "alan_km2": "236800.0"
+  },
+  {
+    "ulke": "Lebanon",
+    "baskent": "Beirut",
+    "nufus": "4125247",
+    "alan_km2": "10400.0"
+  },
+  {
+    "ulke": "Saint Lucia",
+    "baskent": "Castries",
+    "nufus": "160922",
+    "alan_km2": "616.0"
+  },
+  {
+    "ulke": "Liechtenstein",
+    "baskent": "Vaduz",
+    "nufus": "35000",
+    "alan_km2": "160.0"
+  },
+  {
+    "ulke": "Sri Lanka",
+    "baskent": "Colombo",
+    "nufus": "21513990",
+    "alan_km2": "65610.0"
+  },
+  {
+    "ulke": "Liberia",
+    "baskent": "Monrovia",
+    "nufus": "3685076",
+    "alan_km2": "111370.0"
+  },
+  {
+    "ulke": "Lesotho",
+    "baskent": "Maseru",
+    "nufus": "1919552",
+    "alan_km2": "30355.0"
+  },
+  {
+    "ulke": "Lithuania",
+    "baskent": "Vilnius",
+    "nufus": "2944459",
+    "alan_km2": "65200.0"
+  },
+  {
+    "ulke": "Luxembourg",
+    "baskent": "Luxembourg",
+    "nufus": "497538",
+    "alan_km2": "2586.0"
+  },
+  {
+    "ulke": "Latvia",
+    "baskent": "Riga",
+    "nufus": "2217969",
+    "alan_km2": "64589.0"
+  },
+  {
+    "ulke": "Libya",
+    "baskent": "Tripoli",
+    "nufus": "6461454",
+    "alan_km2": "1759540.0"
+  },
+  {
+    "ulke": "Morocco",
+    "baskent": "Rabat",
+    "nufus": "31627428",
+    "alan_km2": "446550.0"
+  },
+  {
+    "ulke": "Monaco",
+    "baskent": "Monaco",
+    "nufus": "32965",
+    "alan_km2": "1.95"
+  },
+  {
+    "ulke": "Moldova",
+    "baskent": "Chişinău",
+    "nufus": "4324000",
+    "alan_km2": "33843.0"
+  },
+  {
+    "ulke": "Montenegro",
+    "baskent": "Podgorica",
+    "nufus": "666730",
+    "alan_km2": "14026.0"
+  },
+  {
+    "ulke": "Saint Martin",
+    "baskent": "Marigot",
+    "nufus": "35925",
+    "alan_km2": "53.0"
+  },
+  {
+    "ulke": "Madagascar",
+    "baskent": "Antananarivo",
+    "nufus": "21281844",
+    "alan_km2": "587040.0"
+  },
+  {
+    "ulke": "Marshall Islands",
+    "baskent": "Majuro",
+    "nufus": "65859",
+    "alan_km2": "181.3"
+  },
+  {
+    "ulke": "Macedonia",
+    "baskent": "Skopje",
+    "nufus": "2062294",
+    "alan_km2": "25333.0"
+  },
+  {
+    "ulke": "Mali",
+    "baskent": "Bamako",
+    "nufus": "13796354",
+    "alan_km2": "1240000.0"
+  },
+  {
+    "ulke": "Myanmar [Burma]",
+    "baskent": "Naypyitaw",
+    "nufus": "53414374",
+    "alan_km2": "678500.0"
+  },
+  {
+    "ulke": "Mongolia",
+    "baskent": "Ulan Bator",
+    "nufus": "3086918",
+    "alan_km2": "1565000.0"
+  },
+  {
+    "ulke": "Macao",
+    "baskent": "Macao",
+    "nufus": "449198",
+    "alan_km2": "254.0"
+  },
+  {
+    "ulke": "Northern Mariana Islands",
+    "baskent": "Saipan",
+    "nufus": "53883",
+    "alan_km2": "477.0"
+  },
+  {
+    "ulke": "Martinique",
+    "baskent": "Fort-de-France",
+    "nufus": "432900",
+    "alan_km2": "1100.0"
+  },
+  {
+    "ulke": "Mauritania",
+    "baskent": "Nouakchott",
+    "nufus": "3205060",
+    "alan_km2": "1030700.0"
+  },
+  {
+    "ulke": "Montserrat",
+    "baskent": "Plymouth",
+    "nufus": "9341",
+    "alan_km2": "102.0"
+  },
+  {
+    "ulke": "Malta",
+    "baskent": "Valletta",
+    "nufus": "403000",
+    "alan_km2": "316.0"
+  },
+  {
+    "ulke": "Mauritius",
+    "baskent": "Port Louis",
+    "nufus": "1294104",
+    "alan_km2": "2040.0"
+  },
+  {
+    "ulke": "Maldives",
+    "baskent": "Malé",
+    "nufus": "395650",
+    "alan_km2": "300.0"
+  },
+  {
+    "ulke": "Malawi",
+    "baskent": "Lilongwe",
+    "nufus": "15447500",
+    "alan_km2": "118480.0"
+  },
+  {
+    "ulke": "Mexico",
+    "baskent": "Mexico City",
+    "nufus": "112468855",
+    "alan_km2": "1972550.0"
+  },
+  {
+    "ulke": "Malaysia",
+    "baskent": "Kuala Lumpur",
+    "nufus": "28274729",
+    "alan_km2": "329750.0"
+  },
+  {
+    "ulke": "Mozambique",
+    "baskent": "Maputo",
+    "nufus": "22061451",
+    "alan_km2": "801590.0"
+  },
+  {
+    "ulke": "Namibia",
+    "baskent": "Windhoek",
+    "nufus": "2128471",
+    "alan_km2": "825418.0"
+  },
+  {
+    "ulke": "New Caledonia",
+    "baskent": "Noumea",
+    "nufus": "216494",
+    "alan_km2": "19060.0"
+  },
+  {
+    "ulke": "Niger",
+    "baskent": "Niamey",
+    "nufus": "15878271",
+    "alan_km2": "1267000.0"
+  },
+  {
+    "ulke": "Norfolk Island",
+    "baskent": "Kingston",
+    "nufus": "1828",
+    "alan_km2": "34.6"
+  },
+  {
+    "ulke": "Nigeria",
+    "baskent": "Abuja",
+    "nufus": "154000000",
+    "alan_km2": "923768.0"
+  },
+  {
+    "ulke": "Nicaragua",
+    "baskent": "Managua",
+    "nufus": "5995928",
+    "alan_km2": "129494.0"
+  },
+  {
+    "ulke": "Netherlands",
+    "baskent": "Amsterdam",
+    "nufus": "16645000",
+    "alan_km2": "41526.0"
+  },
+  {
+    "ulke": "Norway",
+    "baskent": "Oslo",
+    "nufus": "5009150",
+    "alan_km2": "324220.0"
+  },
+  {
+    "ulke": "Nepal",
+    "baskent": "Kathmandu",
+    "nufus": "28951852",
+    "alan_km2": "140800.0"
+  },
+  {
+    "ulke": "Nauru",
+    "baskent": "Yaren",
+    "nufus": "10065",
+    "alan_km2": "21.0"
+  },
+  {
+    "ulke": "Niue",
+    "baskent": "Alofi",
+    "nufus": "2166",
+    "alan_km2": "260.0"
+  },
+  {
+    "ulke": "New Zealand",
+    "baskent": "Wellington",
+    "nufus": "4252277",
+    "alan_km2": "268680.0"
+  },
+  {
+    "ulke": "Oman",
+    "baskent": "Muscat",
+    "nufus": "2967717",
+    "alan_km2": "212460.0"
+  },
+  {
+    "ulke": "Panama",
+    "baskent": "Panama City",
+    "nufus": "3410676",
+    "alan_km2": "78200.0"
+  },
+  {
+    "ulke": "Peru",
+    "baskent": "Lima",
+    "nufus": "29907003",
+    "alan_km2": "1285220.0"
+  },
+  {
+    "ulke": "French Polynesia",
+    "baskent": "Papeete",
+    "nufus": "270485",
+    "alan_km2": "4167.0"
+  },
+  {
+    "ulke": "Papua New Guinea",
+    "baskent": "Port Moresby",
+    "nufus": "6064515",
+    "alan_km2": "462840.0"
+  },
+  {
+    "ulke": "Philippines",
+    "baskent": "Manila",
+    "nufus": "99900177",
+    "alan_km2": "300000.0"
+  },
+  {
+    "ulke": "Pakistan",
+    "baskent": "Islamabad",
+    "nufus": "184404791",
+    "alan_km2": "803940.0"
+  },
+  {
+    "ulke": "Poland",
+    "baskent": "Warsaw",
+    "nufus": "38500000",
+    "alan_km2": "312685.0"
+  },
+  {
+    "ulke": "Saint Pierre and Miquelon",
+    "baskent": "Saint-Pierre",
+    "nufus": "7012",
+    "alan_km2": "242.0"
+  },
+  {
+    "ulke": "Pitcairn Islands",
+    "baskent": "Adamstown",
+    "nufus": "46",
+    "alan_km2": "47.0"
+  },
+  {
+    "ulke": "Puerto Rico",
+    "baskent": "San Juan",
+    "nufus": "3916632",
+    "alan_km2": "9104.0"
+  },
+  {
+    "ulke": "Palestine",
+    "baskent": "None",
+    "nufus": "3800000",
+    "alan_km2": "5970.0"
+  },
+  {
+    "ulke": "Portugal",
+    "baskent": "Lisbon",
+    "nufus": "10676000",
+    "alan_km2": "92391.0"
+  },
+  {
+    "ulke": "Palau",
+    "baskent": "Melekeok",
+    "nufus": "19907",
+    "alan_km2": "458.0"
+  },
+  {
+    "ulke": "Paraguay",
+    "baskent": "Asunción",
+    "nufus": "6375830",
+    "alan_km2": "406750.0"
+  },
+  {
+    "ulke": "Qatar",
+    "baskent": "Doha",
+    "nufus": "840926",
+    "alan_km2": "11437.0"
+  },
+  {
+    "ulke": "Réunion",
+    "baskent": "Saint-Denis",
+    "nufus": "776948",
+    "alan_km2": "2517.0"
+  },
+  {
+    "ulke": "Romania",
+    "baskent": "Bucharest",
+    "nufus": "21959278",
+    "alan_km2": "237500.0"
+  },
+  {
+    "ulke": "Serbia",
+    "baskent": "Belgrade",
+    "nufus": "7344847",
+    "alan_km2": "88361.0"
+  },
+  {
+    "ulke": "Russia",
+    "baskent": "Moscow",
+    "nufus": "140702000",
+    "alan_km2": "1.71E7"
+  },
+  {
+    "ulke": "Rwanda",
+    "baskent": "Kigali",
+    "nufus": "11055976",
+    "alan_km2": "26338.0"
+  },
+  {
+    "ulke": "Saudi Arabia",
+    "baskent": "Riyadh",
+    "nufus": "25731776",
+    "alan_km2": "1960582.0"
+  },
+  {
+    "ulke": "Solomon Islands",
+    "baskent": "Honiara",
+    "nufus": "559198",
+    "alan_km2": "28450.0"
+  },
+  {
+    "ulke": "Seychelles",
+    "baskent": "Victoria",
+    "nufus": "88340",
+    "alan_km2": "455.0"
+  },
+  {
+    "ulke": "Sudan",
+    "baskent": "Khartoum",
+    "nufus": "35000000",
+    "alan_km2": "1861484.0"
+  },
+  {
+    "ulke": "Sweden",
+    "baskent": "Stockholm",
+    "nufus": "9828655",
+    "alan_km2": "449964.0"
+  },
+  {
+    "ulke": "Singapore",
+    "baskent": "Singapore",
+    "nufus": "4701069",
+    "alan_km2": "692.7"
+  },
+  {
+    "ulke": "Saint Helena",
+    "baskent": "Jamestown",
+    "nufus": "7460",
+    "alan_km2": "410.0"
+  },
+  {
+    "ulke": "Slovenia",
+    "baskent": "Ljubljana",
+    "nufus": "2007000",
+    "alan_km2": "20273.0"
+  },
+  {
+    "ulke": "Svalbard and Jan Mayen",
+    "baskent": "Longyearbyen",
+    "nufus": "2550",
+    "alan_km2": "62049.0"
+  },
+  {
+    "ulke": "Slovakia",
+    "baskent": "Bratislava",
+    "nufus": "5455000",
+    "alan_km2": "48845.0"
+  },
+  {
+    "ulke": "Sierra Leone",
+    "baskent": "Freetown",
+    "nufus": "5245695",
+    "alan_km2": "71740.0"
+  },
+  {
+    "ulke": "San Marino",
+    "baskent": "San Marino",
+    "nufus": "31477",
+    "alan_km2": "61.2"
+  },
+  {
+    "ulke": "Senegal",
+    "baskent": "Dakar",
+    "nufus": "12323252",
+    "alan_km2": "196190.0"
+  },
+  {
+    "ulke": "Somalia",
+    "baskent": "Mogadishu",
+    "nufus": "10112453",
+    "alan_km2": "637657.0"
+  },
+  {
+    "ulke": "Suriname",
+    "baskent": "Paramaribo",
+    "nufus": "492829",
+    "alan_km2": "163270.0"
+  },
+  {
+    "ulke": "South Sudan",
+    "baskent": "Juba",
+    "nufus": "8260490",
+    "alan_km2": "644329.0"
+  },
+  {
+    "ulke": "São Tomé and Príncipe",
+    "baskent": "São Tomé",
+    "nufus": "175808",
+    "alan_km2": "1001.0"
+  },
+  {
+    "ulke": "El Salvador",
+    "baskent": "San Salvador",
+    "nufus": "6052064",
+    "alan_km2": "21040.0"
+  },
+  {
+    "ulke": "Sint Maarten",
+    "baskent": "Philipsburg",
+    "nufus": "37429",
+    "alan_km2": "21.0"
+  },
+  {
+    "ulke": "Syria",
+    "baskent": "Damascus",
+    "nufus": "22198110",
+    "alan_km2": "185180.0"
+  },
+  {
+    "ulke": "Swaziland",
+    "baskent": "Mbabane",
+    "nufus": "1354051",
+    "alan_km2": "17363.0"
+  },
+  {
+    "ulke": "Turks and Caicos Islands",
+    "baskent": "Cockburn Town",
+    "nufus": "20556",
+    "alan_km2": "430.0"
+  },
+  {
+    "ulke": "Chad",
+    "baskent": "N'Djamena",
+    "nufus": "10543464",
+    "alan_km2": "1284000.0"
+  },
+  {
+    "ulke": "French Southern Territories",
+    "baskent": "Port-aux-Français",
+    "nufus": "140",
+    "alan_km2": "7829.0"
+  },
+  {
+    "ulke": "Togo",
+    "baskent": "Lomé",
+    "nufus": "6587239",
+    "alan_km2": "56785.0"
+  },
+  {
+    "ulke": "Thailand",
+    "baskent": "Bangkok",
+    "nufus": "67089500",
+    "alan_km2": "514000.0"
+  },
+  {
+    "ulke": "Tajikistan",
+    "baskent": "Dushanbe",
+    "nufus": "7487489",
+    "alan_km2": "143100.0"
+  },
+  {
+    "ulke": "Tokelau",
+    "baskent": "None",
+    "nufus": "1466",
+    "alan_km2": "10.0"
+  },
+  {
+    "ulke": "East Timor",
+    "baskent": "Dili",
+    "nufus": "1154625",
+    "alan_km2": "15007.0"
+  },
+  {
+    "ulke": "Turkmenistan",
+    "baskent": "Ashgabat",
+    "nufus": "4940916",
+    "alan_km2": "488100.0"
+  },
+  {
+    "ulke": "Tunisia",
+    "baskent": "Tunis",
+    "nufus": "10589025",
+    "alan_km2": "163610.0"
+  },
+  {
+    "ulke": "Tonga",
+    "baskent": "Nuku'alofa",
+    "nufus": "122580",
+    "alan_km2": "748.0"
+  },
+  {
+    "ulke": "Turkey",
+    "baskent": "Ankara",
+    "nufus": "77804122",
+    "alan_km2": "780580.0"
+  },
+  {
+    "ulke": "Trinidad and Tobago",
+    "baskent": "Port of Spain",
+    "nufus": "1228691",
+    "alan_km2": "5128.0"
+  },
+  {
+    "ulke": "Tuvalu",
+    "baskent": "Funafuti",
+    "nufus": "10472",
+    "alan_km2": "26.0"
+  },
+  {
+    "ulke": "Taiwan",
+    "baskent": "Taipei",
+    "nufus": "22894384",
+    "alan_km2": "35980.0"
+  },
+  {
+    "ulke": "Tanzania",
+    "baskent": "Dodoma",
+    "nufus": "41892895",
+    "alan_km2": "945087.0"
+  },
+  {
+    "ulke": "Ukraine",
+    "baskent": "Kiev",
+    "nufus": "45415596",
+    "alan_km2": "603700.0"
+  },
+  {
+    "ulke": "Uganda",
+    "baskent": "Kampala",
+    "nufus": "33398682",
+    "alan_km2": "236040.0"
+  },
+  {
+    "ulke": "U.S. Minor Outlying Islands",
+    "baskent": "None",
+    "nufus": "0",
+    "alan_km2": "0.0"
+  },
+  {
+    "ulke": "United States",
+    "baskent": "Washington",
+    "nufus": "310232863",
+    "alan_km2": "9629091.0"
+  },
+  {
+    "ulke": "Uruguay",
+    "baskent": "Montevideo",
+    "nufus": "3477000",
+    "alan_km2": "176220.0"
+  },
+  {
+    "ulke": "Uzbekistan",
+    "baskent": "Tashkent",
+    "nufus": "27865738",
+    "alan_km2": "447400.0"
+  },
+  {
+    "ulke": "Vatican City",
+    "baskent": "Vatican City",
+    "nufus": "921",
+    "alan_km2": "0.44"
+  },
+  {
+    "ulke": "Saint Vincent and the Grenadines",
+    "baskent": "Kingstown",
+    "nufus": "104217",
+    "alan_km2": "389.0"
+  },
+  {
+    "ulke": "Venezuela",
+    "baskent": "Caracas",
+    "nufus": "27223228",
+    "alan_km2": "912050.0"
+  },
+  {
+    "ulke": "British Virgin Islands",
+    "baskent": "Road Town",
+    "nufus": "21730",
+    "alan_km2": "153.0"
+  },
+  {
+    "ulke": "U.S. Virgin Islands",
+    "baskent": "Charlotte Amalie",
+    "nufus": "108708",
+    "alan_km2": "352.0"
+  },
+  {
+    "ulke": "Vietnam",
+    "baskent": "Hanoi",
+    "nufus": "89571130",
+    "alan_km2": "329560.0"
+  },
+  {
+    "ulke": "Vanuatu",
+    "baskent": "Port Vila",
+    "nufus": "221552",
+    "alan_km2": "12200.0"
+  },
+  {
+    "ulke": "Wallis and Futuna",
+    "baskent": "Mata-Utu",
+    "nufus": "16025",
+    "alan_km2": "274.0"
+  },
+  {
+    "ulke": "Samoa",
+    "baskent": "Apia",
+    "nufus": "192001",
+    "alan_km2": "2944.0"
+  },
+  {
+    "ulke": "Kosovo",
+    "baskent": "Pristina",
+    "nufus": "1800000",
+    "alan_km2": "10908.0"
+  },
+  {
+    "ulke": "Yemen",
+    "baskent": "Sanaa",
+    "nufus": "23495361",
+    "alan_km2": "527970.0"
+  },
+  {
+    "ulke": "Mayotte",
+    "baskent": "Mamoudzou",
+    "nufus": "159042",
+    "alan_km2": "374.0"
+  },
+  {
+    "ulke": "South Africa",
+    "baskent": "Pretoria",
+    "nufus": "49000000",
+    "alan_km2": "1219912.0"
+  },
+  {
+    "ulke": "Zambia",
+    "baskent": "Lusaka",
+    "nufus": "13460305",
+    "alan_km2": "752614.0"
+  },
+  {
+    "ulke": "Zimbabwe",
+    "baskent": "Harare",
+    "nufus": "11651858",
+    "alan_km2": "390580.0"
+  }
+]

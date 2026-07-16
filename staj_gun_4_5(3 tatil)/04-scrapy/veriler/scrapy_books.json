@@ -1,0 +1,362 @@
+[
+  {
+    "baslik": "A Light in the Attic",
+    "fiyat": "£51.77",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Tipping the Velvet",
+    "fiyat": "£53.74",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Soumission",
+    "fiyat": "£50.10",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Sharp Objects",
+    "fiyat": "£47.82",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "Sapiens: A Brief History of Humankind",
+    "fiyat": "£54.23",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "The Requiem Red",
+    "fiyat": "£22.65",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "The Dirty Little Secrets of Getting Your Dream Job",
+    "fiyat": "£33.34",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "fiyat": "£17.93",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "fiyat": "£22.60",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "The Black Maria",
+    "fiyat": "£52.15",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "fiyat": "£13.99",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "Shakespeare's Sonnets",
+    "fiyat": "£20.66",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "Set Me Free",
+    "fiyat": "£17.46",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "fiyat": "£52.29",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Rip it Up and Start Again",
+    "fiyat": "£35.02",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "fiyat": "£57.25",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Olio",
+    "fiyat": "£23.88",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "fiyat": "£37.59",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Libertarianism for Beginners",
+    "fiyat": "£51.33",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "It's Only the Himalayas",
+    "fiyat": "£45.17",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "In Her Wake",
+    "fiyat": "£12.84",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "How Music Works",
+    "fiyat": "£37.32",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+    "fiyat": "£30.52",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Chase Me (Paris Nights #2)",
+    "fiyat": "£25.27",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Black Dust",
+    "fiyat": "£34.53",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Birdsong: A Story in Pictures",
+    "fiyat": "£54.64",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "fiyat": "£22.50",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Aladdin and His Wonderful Lamp",
+    "fiyat": "£53.13",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+    "fiyat": "£40.30",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Wall and Piece",
+    "fiyat": "£44.18",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "fiyat": "£17.66",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "fiyat": "£31.05",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "The Elephant Tree",
+    "fiyat": "£23.82",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "The Bear and the Piano",
+    "fiyat": "£36.89",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Sophie's World",
+    "fiyat": "£15.94",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Penny Maybe",
+    "fiyat": "£33.29",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Maude (1883-1993):She Grew Up with the country",
+    "fiyat": "£18.02",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "In a Dark, Dark Wood",
+    "fiyat": "£19.63",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Behind Closed Doors",
+    "fiyat": "£52.22",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "You can't bury them all: Poems",
+    "fiyat": "£33.63",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "Slow States of Collapse: Poems",
+    "fiyat": "£57.31",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Reasons to Stay Alive",
+    "fiyat": "£26.41",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "Private Paris (Private #10)",
+    "fiyat": "£47.61",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+    "fiyat": "£23.11",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Without Borders (Wanderlove #1)",
+    "fiyat": "£45.07",
+    "stok_durumu": "In stock",
+    "puan": "Two"
+  },
+  {
+    "baslik": "When We Collided",
+    "fiyat": "£31.77",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "We Love You, Charlie Freeman",
+    "fiyat": "£50.27",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "Untitled Collection: Sabbath Poems 2014",
+    "fiyat": "£14.27",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+    "fiyat": "£44.18",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "Unicorn Tracks",
+    "fiyat": "£18.78",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+    "fiyat": "£25.52",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+    "fiyat": "£16.28",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+    "fiyat": "£31.12",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  },
+  {
+    "baslik": "This One Summer",
+    "fiyat": "£19.49",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "Thirst",
+    "fiyat": "£17.27",
+    "stok_durumu": "In stock",
+    "puan": "Five"
+  },
+  {
+    "baslik": "The Torch Is Passed: A Harding Family Story",
+    "fiyat": "£19.09",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "The Secret of Dreadwillow Carse",
+    "fiyat": "£56.13",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+    "fiyat": "£56.41",
+    "stok_durumu": "In stock",
+    "puan": "One"
+  },
+  {
+    "baslik": "The Past Never Ends",
+    "fiyat": "£56.50",
+    "stok_durumu": "In stock",
+    "puan": "Four"
+  },
+  {
+    "baslik": "The Natural History of Us (The Fine Art of Pretending #2)",
+    "fiyat": "£45.22",
+    "stok_durumu": "In stock",
+    "puan": "Three"
+  }
+]

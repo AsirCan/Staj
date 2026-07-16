@@ -1,0 +1,446 @@
+[
+  {
+    "film": "Spotlight",
+    "aday_sayisi": "6",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Mad Max: Fury Road",
+    "aday_sayisi": "10",
+    "odul_sayisi": "6",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Revenant",
+    "aday_sayisi": "12",
+    "odul_sayisi": "3",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Bridge of Spies",
+    "aday_sayisi": "6",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Big Short",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Danish Girl",
+    "aday_sayisi": "4",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Room",
+    "aday_sayisi": "4",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Ex Machina",
+    "aday_sayisi": "2",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Hateful Eight",
+    "aday_sayisi": "2",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Inside Out",
+    "aday_sayisi": "2",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Amy",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Bear Story",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "A Girl in the River: The Price of Forgiveness",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Son of Saul",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Spectre",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Stutterer",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Birdman",
+    "aday_sayisi": "9",
+    "odul_sayisi": "4",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Grand Budapest Hotel",
+    "aday_sayisi": "9",
+    "odul_sayisi": "4",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Whiplash",
+    "aday_sayisi": "5",
+    "odul_sayisi": "3",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Imitation Game",
+    "aday_sayisi": "8",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "American Sniper",
+    "aday_sayisi": "6",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Boyhood",
+    "aday_sayisi": "6",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Interstellar",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Theory of Everything",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Ida",
+    "aday_sayisi": "2",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Selma",
+    "aday_sayisi": "2",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Citizenfour",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Big Hero 6",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Crisis Hotline: Veterans Press 1",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Phone Call",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Still Alice",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Feast",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "12 Years a Slave",
+    "aday_sayisi": "9",
+    "odul_sayisi": "3",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Gravity",
+    "aday_sayisi": "10",
+    "odul_sayisi": "7",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Dallas Buyers Club",
+    "aday_sayisi": "6",
+    "odul_sayisi": "3",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Frozen",
+    "aday_sayisi": "2",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Great Gatsby",
+    "aday_sayisi": "2",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Her",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Blue Jasmine",
+    "aday_sayisi": "3",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Mr Hublot",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Lady in Number 6: Music Saved My Life",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Helium",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Great Beauty",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "20 Feet from Stardom",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Argo",
+    "aday_sayisi": "7",
+    "odul_sayisi": "3",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Life of Pi",
+    "aday_sayisi": "11",
+    "odul_sayisi": "4",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Les Misérables",
+    "aday_sayisi": "8",
+    "odul_sayisi": "3",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Lincoln",
+    "aday_sayisi": "12",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Django Unchained",
+    "aday_sayisi": "5",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Skyfall",
+    "aday_sayisi": "5",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Silver Linings Playbook",
+    "aday_sayisi": "8",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Zero Dark Thirty",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Amour",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Anna Karenina",
+    "aday_sayisi": "4",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Paperman",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Brave",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Searching for Sugar Man",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Inocente",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Curfew",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Artist",
+    "aday_sayisi": "10",
+    "odul_sayisi": "5",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Hugo",
+    "aday_sayisi": "11",
+    "odul_sayisi": "5",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Iron Lady",
+    "aday_sayisi": "2",
+    "odul_sayisi": "2",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Descendants",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Girl with the Dragon Tattoo",
+    "aday_sayisi": "5",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Midnight in Paris",
+    "aday_sayisi": "4",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Help",
+    "aday_sayisi": "4",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "A Separation",
+    "aday_sayisi": "2",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Fantastic Flying Books of Mr. Morris Lessmore",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Shore",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Undefeated",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "The Muppets",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Saving Face",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Beginners",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  },
+  {
+    "film": "Rango",
+    "aday_sayisi": "1",
+    "odul_sayisi": "1",
+    "en_iyi_film": ""
+  }
+]

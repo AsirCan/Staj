@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "urun_adi": "Essence Mascara Lash Princess",
+    "marka": "Essence",
+    "kategori": "beauty",
+    "fiyat": "$9.99",
+    "puan": 2.56,
+    "stok": 99
+  },
+  {
+    "id": 2,
+    "urun_adi": "Eyeshadow Palette with Mirror",
+    "marka": "Glamour Beauty",
+    "kategori": "beauty",
+    "fiyat": "$19.99",
+    "puan": 2.86,
+    "stok": 34
+  },
+  {
+    "id": 3,
+    "urun_adi": "Powder Canister",
+    "marka": "Velvet Touch",
+    "kategori": "beauty",
+    "fiyat": "$14.99",
+    "puan": 4.64,
+    "stok": 89
+  },
+  {
+    "id": 4,
+    "urun_adi": "Red Lipstick",
+    "marka": "Chic Cosmetics",
+    "kategori": "beauty",
+    "fiyat": "$12.99",
+    "puan": 4.36,
+    "stok": 91
+  },
+  {
+    "id": 5,
+    "urun_adi": "Red Nail Polish",
+    "marka": "Nail Couture",
+    "kategori": "beauty",
+    "fiyat": "$8.99",
+    "puan": 4.32,
+    "stok": 79
+  },
+  {
+    "id": 6,
+    "urun_adi": "Calvin Klein CK One",
+    "marka": "Calvin Klein",
+    "kategori": "fragrances",
+    "fiyat": "$49.99",
+    "puan": 4.37,
+    "stok": 29
+  },
+  {
+    "id": 7,
+    "urun_adi": "Chanel Coco Noir Eau De",
+    "marka": "Chanel",
+    "kategori": "fragrances",
+    "fiyat": "$129.99",
+    "puan": 4.26,
+    "stok": 58
+  },
+  {
+    "id": 8,
+    "urun_adi": "Dior J'adore",
+    "marka": "Dior",
+    "kategori": "fragrances",
+    "fiyat": "$89.99",
+    "puan": 3.8,
+    "stok": 98
+  },
+  {
+    "id": 9,
+    "urun_adi": "Dolce Shine Eau de",
+    "marka": "Dolce & Gabbana",
+    "kategori": "fragrances",
+    "fiyat": "$69.99",
+    "puan": 3.96,
+    "stok": 4
+  },
+  {
+    "id": 10,
+    "urun_adi": "Gucci Bloom Eau de",
+    "marka": "Gucci",
+    "kategori": "fragrances",
+    "fiyat": "$79.99",
+    "puan": 2.74,
+    "stok": 91
+  },
+  {
+    "id": 11,
+    "urun_adi": "Annibale Colombo Bed",
+    "marka": "Annibale Colombo",
+    "kategori": "furniture",
+    "fiyat": "$1899.99",
+    "puan": 4.77,
+    "stok": 88
+  },
+  {
+    "id": 12,
+    "urun_adi": "Annibale Colombo Sofa",
+    "marka": "Annibale Colombo",
+    "kategori": "furniture",
+    "fiyat": "$2499.99",
+    "puan": 3.92,
+    "stok": 60
+  },
+  {
+    "id": 13,
+    "urun_adi": "Bedside Table African Cherry",
+    "marka": "Furniture Co.",
+    "kategori": "furniture",
+    "fiyat": "$299.99",
+    "puan": 2.87,
+    "stok": 64
+  },
+  {
+    "id": 14,
+    "urun_adi": "Knoll Saarinen Executive Conference Chair",
+    "marka": "Knoll",
+    "kategori": "furniture",
+    "fiyat": "$499.99",
+    "puan": 4.88,
+    "stok": 26
+  },
+  {
+    "id": 15,
+    "urun_adi": "Wooden Bathroom Sink With Mirror",
+    "marka": "Bath Trends",
+    "kategori": "furniture",
+    "fiyat": "$799.99",
+    "puan": 3.59,
+    "stok": 7
+  },
+  {
+    "id": 16,
+    "urun_adi": "Apple",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$1.99",
+    "puan": 4.19,
+    "stok": 8
+  },
+  {
+    "id": 17,
+    "urun_adi": "Beef Steak",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$12.99",
+    "puan": 4.47,
+    "stok": 86
+  },
+  {
+    "id": 18,
+    "urun_adi": "Cat Food",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$8.99",
+    "puan": 3.13,
+    "stok": 46
+  },
+  {
+    "id": 19,
+    "urun_adi": "Chicken Meat",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$9.99",
+    "puan": 3.19,
+    "stok": 97
+  },
+  {
+    "id": 20,
+    "urun_adi": "Cooking Oil",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$4.99",
+    "puan": 4.8,
+    "stok": 10
+  },
+  {
+    "id": 21,
+    "urun_adi": "Cucumber",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$1.49",
+    "puan": 4.07,
+    "stok": 84
+  },
+  {
+    "id": 22,
+    "urun_adi": "Dog Food",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$10.99",
+    "puan": 4.55,
+    "stok": 71
+  },
+  {
+    "id": 23,
+    "urun_adi": "Eggs",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$2.99",
+    "puan": 2.53,
+    "stok": 9
+  },
+  {
+    "id": 24,
+    "urun_adi": "Fish Steak",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$14.99",
+    "puan": 3.78,
+    "stok": 74
+  },
+  {
+    "id": 25,
+    "urun_adi": "Green Bell Pepper",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$1.29",
+    "puan": 3.25,
+    "stok": 33
+  },
+  {
+    "id": 26,
+    "urun_adi": "Green Chili Pepper",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$0.99",
+    "puan": 3.66,
+    "stok": 3
+  },
+  {
+    "id": 27,
+    "urun_adi": "Honey Jar",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$6.99",
+    "puan": 3.97,
+    "stok": 34
+  },
+  {
+    "id": 28,
+    "urun_adi": "Ice Cream",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$5.49",
+    "puan": 3.39,
+    "stok": 27
+  },
+  {
+    "id": 29,
+    "urun_adi": "Juice",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$3.99",
+    "puan": 3.94,
+    "stok": 50
+  },
+  {
+    "id": 30,
+    "urun_adi": "Kiwi",
+    "marka": null,
+    "kategori": "groceries",
+    "fiyat": "$2.49",
+    "puan": 4.93,
+    "stok": 99
+  }
+]

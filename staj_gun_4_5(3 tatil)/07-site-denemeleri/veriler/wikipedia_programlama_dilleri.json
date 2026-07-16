@@ -1,0 +1,2690 @@
+[
+  {
+    "dil": "A.NET (A#/A sharp)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/A_Sharp_(.NET)"
+  },
+  {
+    "dil": "A-0 System",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/A-0_System"
+  },
+  {
+    "dil": "A+ (A plus)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/A+_(programming_language)"
+  },
+  {
+    "dil": "ABAP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ABAP"
+  },
+  {
+    "dil": "ABC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ABC_(programming_language)"
+  },
+  {
+    "dil": "ACC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ACC_(programming_language)"
+  },
+  {
+    "dil": "Accent (Rational Synergy)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Accent_(programming_language)"
+  },
+  {
+    "dil": "Action!",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Action!_(programming_language)"
+  },
+  {
+    "dil": "ActionScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ActionScript"
+  },
+  {
+    "dil": "Actor",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Actor_(programming_language)"
+  },
+  {
+    "dil": "Ada",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ada_(programming_language)"
+  },
+  {
+    "dil": "Adenine (Haystack)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Adenine_(programming_language)"
+  },
+  {
+    "dil": "AdvPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AdvPL"
+  },
+  {
+    "dil": "Agda",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Agda_(programming_language)"
+  },
+  {
+    "dil": "Agilent VEE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Agilent_VEE"
+  },
+  {
+    "dil": "Agora",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Agora_(programming_language)"
+  },
+  {
+    "dil": "AIMMS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AIMMS"
+  },
+  {
+    "dil": "Aldor",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Aldor"
+  },
+  {
+    "dil": "Alef",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Alef_(programming_language)"
+  },
+  {
+    "dil": "Algebraic Logic Functional programming language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Algebraic_Logic_Functional_programming_language"
+  },
+  {
+    "dil": "ALGOL 58",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ALGOL_58"
+  },
+  {
+    "dil": "ALGOL 60",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ALGOL_60"
+  },
+  {
+    "dil": "ALGOL 68",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ALGOL_68"
+  },
+  {
+    "dil": "ALGOL W",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ALGOL_W"
+  },
+  {
+    "dil": "Alice ML",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Alice_(programming_language)"
+  },
+  {
+    "dil": "Alma-0",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Alma-0"
+  },
+  {
+    "dil": "AmbientTalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AmbientTalk"
+  },
+  {
+    "dil": "Amiga E",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Amiga_E"
+  },
+  {
+    "dil": "AMPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AMPL"
+  },
+  {
+    "dil": "Analitik",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Аналитик"
+  },
+  {
+    "dil": "AngelScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AngelScript"
+  },
+  {
+    "dil": "Apache Pig latin",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Apache_Pig"
+  },
+  {
+    "dil": "Apex (Salesforce.com, Inc)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Apex_(programming_language)"
+  },
+  {
+    "dil": "APL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/APL_(programming_language)"
+  },
+  {
+    "dil": "App Inventor for Android's visual block language (MIT App Inventor)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/App_Inventor_for_Android_(programming_language)"
+  },
+  {
+    "dil": "AppleScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AppleScript"
+  },
+  {
+    "dil": "APT",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/APT_(programming_language)"
+  },
+  {
+    "dil": "Arc",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Arc_(programming_language)"
+  },
+  {
+    "dil": "ArkTS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ArkTS"
+  },
+  {
+    "dil": "ARexx",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ARexx"
+  },
+  {
+    "dil": "Argus",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Argus_(programming_language)"
+  },
+  {
+    "dil": "Assembly language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Assembly_language"
+  },
+  {
+    "dil": "AssemblyScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AssemblyScript"
+  },
+  {
+    "dil": "ATS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ATS_(programming_language)"
+  },
+  {
+    "dil": "AutoHotkey",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AutoHotkey"
+  },
+  {
+    "dil": "AutoIt",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AutoIt"
+  },
+  {
+    "dil": "AutoLISP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AutoLISP"
+  },
+  {
+    "dil": "Averest",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Averest"
+  },
+  {
+    "dil": "AWK",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AWK"
+  },
+  {
+    "dil": "Axum",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Axum_(programming_language)"
+  },
+  {
+    "dil": "B",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/B_(programming_language)"
+  },
+  {
+    "dil": "Babbage",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Babbage_(programming_language)"
+  },
+  {
+    "dil": "Ballerina",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ballerina_(programming_language)"
+  },
+  {
+    "dil": "Bash",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Bash_(Unix_shell)"
+  },
+  {
+    "dil": "BASIC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BASIC"
+  },
+  {
+    "dil": "Batch file (Windows/MS-DOS)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Batch_file"
+  },
+  {
+    "dil": "bc (basic calculator)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Bc_(programming_language)"
+  },
+  {
+    "dil": "BCPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BCPL"
+  },
+  {
+    "dil": "BeanShell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BeanShell"
+  },
+  {
+    "dil": "BETA",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BETA_(programming_language)"
+  },
+  {
+    "dil": "BLISS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BLISS"
+  },
+  {
+    "dil": "Blockly",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Blockly"
+  },
+  {
+    "dil": "BlooP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BlooP_and_FlooP"
+  },
+  {
+    "dil": "Boo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Boo_(programming_language)"
+  },
+  {
+    "dil": "Boomerang",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Boomerang_(programming_language)"
+  },
+  {
+    "dil": "Bosque",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Bosque_(programming_language)"
+  },
+  {
+    "dil": "C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C_(programming_language)"
+  },
+  {
+    "dil": "C--",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C--"
+  },
+  {
+    "dil": "C++",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C++"
+  },
+  {
+    "dil": "C*",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C*"
+  },
+  {
+    "dil": "C#",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+  },
+  {
+    "dil": "C/AL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C/AL"
+  },
+  {
+    "dil": "Caché ObjectScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Caché_ObjectScript"
+  },
+  {
+    "dil": "C Shell (csh)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/C_Shell"
+  },
+  {
+    "dil": "Calcpad",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Calcpad"
+  },
+  {
+    "dil": "Caml",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Caml"
+  },
+  {
+    "dil": "Carbon",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Carbon_(programming_language)"
+  },
+  {
+    "dil": "Catrobat",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Catrobat"
+  },
+  {
+    "dil": "Cayenne (Lennart Augustsson)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cayenne_(programming_language)"
+  },
+  {
+    "dil": "Cecil",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cecil_(programming_language)"
+  },
+  {
+    "dil": "CESIL (Computer Education in Schools Instruction Language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CESIL"
+  },
+  {
+    "dil": "CEEMAC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CEEMAC"
+  },
+  {
+    "dil": "Céu",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Céu_(programming_language)"
+  },
+  {
+    "dil": "Ceylon",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ceylon_(programming_language)"
+  },
+  {
+    "dil": "CFEngine",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CFEngine"
+  },
+  {
+    "dil": "Cg (High-Level Shader/Shading Language [HLSL])",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cg_(programming_language)"
+  },
+  {
+    "dil": "Ch",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ch_(computer_programming)"
+  },
+  {
+    "dil": "Chapel (Cascade High Productivity Language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Chapel_(programming_language)"
+  },
+  {
+    "dil": "Charm",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Charm_(language)"
+  },
+  {
+    "dil": "CHICKEN",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Chicken_(Scheme_implementation)"
+  },
+  {
+    "dil": "CHILL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CHILL"
+  },
+  {
+    "dil": "CHIP-8",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CHIP-8"
+  },
+  {
+    "dil": "ChucK",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ChucK"
+  },
+  {
+    "dil": "Cilk (also Cilk++ and Cilk plus)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cilk"
+  },
+  {
+    "dil": "Claire",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Claire_(programming_language)"
+  },
+  {
+    "dil": "Clarion",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Clarion_(programming_language)"
+  },
+  {
+    "dil": "Clean",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Clean_(programming_language)"
+  },
+  {
+    "dil": "Clipper",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Clipper_(programming_language)"
+  },
+  {
+    "dil": "CLIPS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CLIPS_(programming_language)"
+  },
+  {
+    "dil": "CLIST",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CLIST"
+  },
+  {
+    "dil": "Clojure",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Clojure"
+  },
+  {
+    "dil": "CLU",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CLU_(programming_language)"
+  },
+  {
+    "dil": "CMS-2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CMS-2_(programming_language)"
+  },
+  {
+    "dil": "COBOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/COBOL"
+  },
+  {
+    "dil": "CobolScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CobolScript"
+  },
+  {
+    "dil": "Cobra",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cobra_(programming_language)"
+  },
+  {
+    "dil": "CoffeeScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CoffeeScript"
+  },
+  {
+    "dil": "ColdFusion",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ColdFusion"
+  },
+  {
+    "dil": "COMAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/COMAL"
+  },
+  {
+    "dil": "COMIT",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/COMIT"
+  },
+  {
+    "dil": "Common Intermediate Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Common_Intermediate_Language"
+  },
+  {
+    "dil": "Common Lisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Common_Lisp"
+  },
+  {
+    "dil": "COMPASS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/COMPASS"
+  },
+  {
+    "dil": "Component Pascal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Component_Pascal"
+  },
+  {
+    "dil": "COMTRAN",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/COMTRAN"
+  },
+  {
+    "dil": "Concurrent Pascal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Concurrent_Pascal"
+  },
+  {
+    "dil": "Constraint Handling Rules",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Constraint_Handling_Rules"
+  },
+  {
+    "dil": "Control Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Control_Language"
+  },
+  {
+    "dil": "Rocq",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Rocq"
+  },
+  {
+    "dil": "CORAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CORAL"
+  },
+  {
+    "dil": "CorVision",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CorVision"
+  },
+  {
+    "dil": "COWSEL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/COWSEL"
+  },
+  {
+    "dil": "CPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CPL_(programming_language)"
+  },
+  {
+    "dil": "Cryptol",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cryptol"
+  },
+  {
+    "dil": "Crystal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Crystal_(programming_language)"
+  },
+  {
+    "dil": "Csound",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Csound"
+  },
+  {
+    "dil": "Cuneiform",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cuneiform_(programming_language)"
+  },
+  {
+    "dil": "Curl",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Curl_(programming_language)"
+  },
+  {
+    "dil": "Curry",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Curry_(programming_language)"
+  },
+  {
+    "dil": "Cybil",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cybil_(programming_language)"
+  },
+  {
+    "dil": "Cyclone",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cyclone_(programming_language)"
+  },
+  {
+    "dil": "Cypher Query Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cypher_Query_Language"
+  },
+  {
+    "dil": "Cython",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Cython"
+  },
+  {
+    "dil": "D",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/D_(programming_language)"
+  },
+  {
+    "dil": "Dart",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Dart_(programming_language)"
+  },
+  {
+    "dil": "Darwin",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Darwin_(programming_language)"
+  },
+  {
+    "dil": "DataFlex",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DataFlex"
+  },
+  {
+    "dil": "Datalog",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Datalog"
+  },
+  {
+    "dil": "DATATRIEVE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DATATRIEVE"
+  },
+  {
+    "dil": "dBase",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DBase"
+  },
+  {
+    "dil": "dc",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Dc_(computer_program)"
+  },
+  {
+    "dil": "DCL (DIGITAL Command Language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DIGITAL_Command_Language"
+  },
+  {
+    "dil": "Delphi",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Delphi_(software)"
+  },
+  {
+    "dil": "DIBOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DIBOL"
+  },
+  {
+    "dil": "DinkC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Dink_Smallwood#Modification"
+  },
+  {
+    "dil": "Dog",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Dog_(programming_language)"
+  },
+  {
+    "dil": "Draco",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Draco_(programming_language)"
+  },
+  {
+    "dil": "DRAKON",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DRAKON"
+  },
+  {
+    "dil": "Dylan",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Dylan_(programming_language)"
+  },
+  {
+    "dil": "DYNAMO",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/DYNAMO_(programming_language)"
+  },
+  {
+    "dil": "DAX (Data Analysis Expressions)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Data_analysis_expressions"
+  },
+  {
+    "dil": "E",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/E_(programming_language)"
+  },
+  {
+    "dil": "Ease",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ease_(programming_language)"
+  },
+  {
+    "dil": "Easy PL/I",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/I"
+  },
+  {
+    "dil": "EASYTRIEVE PLUS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Easytrieve"
+  },
+  {
+    "dil": "ECMAScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ECMAScript"
+  },
+  {
+    "dil": "Edinburgh IMP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Edinburgh_IMP"
+  },
+  {
+    "dil": "EGL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/EGL_(programming_language)"
+  },
+  {
+    "dil": "Eiffel",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Eiffel_(programming_language)"
+  },
+  {
+    "dil": "ELAN",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ELAN_(programming_language)"
+  },
+  {
+    "dil": "Elixir",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elixir_(programming_language)"
+  },
+  {
+    "dil": "Elm",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elm_(programming_language)"
+  },
+  {
+    "dil": "Emacs Lisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Emacs_Lisp"
+  },
+  {
+    "dil": "Emerald",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Emerald_(programming_language)"
+  },
+  {
+    "dil": "Epigram",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Epigram_(programming_language)"
+  },
+  {
+    "dil": "EPL (Easy Programming Language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Easy_Programming_Language"
+  },
+  {
+    "dil": "Erlang",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Erlang_(programming_language)"
+  },
+  {
+    "dil": "es",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Es_(Unix_shell)"
+  },
+  {
+    "dil": "Escher",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Escher_(programming_language)"
+  },
+  {
+    "dil": "ESPOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Executive_Systems_Problem_Oriented_Language"
+  },
+  {
+    "dil": "Esterel",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Esterel"
+  },
+  {
+    "dil": "Etoys",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Etoys_(programming_language)"
+  },
+  {
+    "dil": "Euclid",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Euclid_(programming_language)"
+  },
+  {
+    "dil": "Euler",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Euler_(programming_language)"
+  },
+  {
+    "dil": "Euphoria",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Euphoria_(programming_language)"
+  },
+  {
+    "dil": "EusLisp Robot Programming Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/EusLisp_Robot_Programming_Language"
+  },
+  {
+    "dil": "CMS EXEC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/CMS_EXEC"
+  },
+  {
+    "dil": "EXEC 2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/EXEC_2"
+  },
+  {
+    "dil": "Executable UML",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Executable_UML"
+  },
+  {
+    "dil": "Ezhil",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ezhil_(programming_language)"
+  },
+  {
+    "dil": "F",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/F_(programming_language)"
+  },
+  {
+    "dil": "F# (F sharp)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/F_Sharp_(programming_language)"
+  },
+  {
+    "dil": "F*",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/F*_(programming_language)"
+  },
+  {
+    "dil": "Factor",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Factor_(programming_language)"
+  },
+  {
+    "dil": "Fantom",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Fantom_(programming_language)"
+  },
+  {
+    "dil": "FAUST",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FAUST_(programming_language)"
+  },
+  {
+    "dil": "FFP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FFP_(programming_language)"
+  },
+  {
+    "dil": "fish",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Friendly_interactive_shell"
+  },
+  {
+    "dil": "Fjölnir",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Fjölnir_(programming_language)"
+  },
+  {
+    "dil": "FL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FL_(programming_language)"
+  },
+  {
+    "dil": "Flavors",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Flavors_(programming_language)"
+  },
+  {
+    "dil": "Flex",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Flex_(language)"
+  },
+  {
+    "dil": "Flix",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Flix_(programming_language)"
+  },
+  {
+    "dil": "FlooP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/BlooP_and_FlooP"
+  },
+  {
+    "dil": "FLOW-MATIC (B0)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FLOW-MATIC"
+  },
+  {
+    "dil": "FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FOCAL_(programming_language)"
+  },
+  {
+    "dil": "FOCUS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FOCUS"
+  },
+  {
+    "dil": "FOIL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FOIL_(programming_language)"
+  },
+  {
+    "dil": "FORMAC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FORMAC"
+  },
+  {
+    "dil": "@Formula",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Formula_language"
+  },
+  {
+    "dil": "Forth",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Forth_(programming_language)"
+  },
+  {
+    "dil": "Fortran",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Fortran"
+  },
+  {
+    "dil": "Fortress",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Fortress_(programming_language)"
+  },
+  {
+    "dil": "FoxBase/FoxPro",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FoxPro_(programming_language)"
+  },
+  {
+    "dil": "FP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/FP_(programming_language)"
+  },
+  {
+    "dil": "Franz Lisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Franz_Lisp"
+  },
+  {
+    "dil": "Futhark",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Futhark_(programming_language)"
+  },
+  {
+    "dil": "Game Maker Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Game_Maker_Language"
+  },
+  {
+    "dil": "GameMonkey Script",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GameMonkey_Script"
+  },
+  {
+    "dil": "General Algebraic Modeling System",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/General_Algebraic_Modeling_System"
+  },
+  {
+    "dil": "GAP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GAP_computer_algebra_system"
+  },
+  {
+    "dil": "G-code",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/G-code"
+  },
+  {
+    "dil": "GDScript (Godot)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Godot_(game_engine)"
+  },
+  {
+    "dil": "Geometric Description Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Geometric_Description_Language"
+  },
+  {
+    "dil": "GEORGE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GEORGE_(programming_language)"
+  },
+  {
+    "dil": "Gleam",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Gleam_(programming_language)"
+  },
+  {
+    "dil": "OpenGL Shading Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OpenGL_Shading_Language"
+  },
+  {
+    "dil": "GNU E",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GNU_E"
+  },
+  {
+    "dil": "GNU Guile (GNU Ubiquitous Intelligent Language for Extensions)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GNU_Guile"
+  },
+  {
+    "dil": "GNU Octave",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GNU_Octave"
+  },
+  {
+    "dil": "Go",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Go_(programming_language)"
+  },
+  {
+    "dil": "Go!",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Go!_(programming_language)"
+  },
+  {
+    "dil": "Game Oriented Assembly Lisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Game_Oriented_Assembly_Lisp"
+  },
+  {
+    "dil": "Gödel",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Gödel_(programming_language)"
+  },
+  {
+    "dil": "Golo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Golo_(programming_language)"
+  },
+  {
+    "dil": "GOM",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MAD_(programming_language)"
+  },
+  {
+    "dil": "Google Apps Script",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Google_Apps_Script"
+  },
+  {
+    "dil": "Gosu",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Gosu_(programming_language)"
+  },
+  {
+    "dil": "GOTRAN (IBM 1620)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IBM_1620#GOTRAN"
+  },
+  {
+    "dil": "GPSS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GPSS"
+  },
+  {
+    "dil": "Computer Sciences Corporation",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Computer_Sciences_Corporation"
+  },
+  {
+    "dil": "GRASS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/GRASS_(programming_language)"
+  },
+  {
+    "dil": "Grasshopper",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Grasshopper_3D"
+  },
+  {
+    "dil": "Groovy",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Apache_Groovy"
+  },
+  {
+    "dil": "Hack",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hack_(programming_language)"
+  },
+  {
+    "dil": "HAGGIS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/HAGGIS"
+  },
+  {
+    "dil": "HAL/S",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/HAL/S"
+  },
+  {
+    "dil": "Halide (programming language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Halide_(programming_language)"
+  },
+  {
+    "dil": "Hamilton C shell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hamilton_C_shell"
+  },
+  {
+    "dil": "Harbour",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Harbour_(software)"
+  },
+  {
+    "dil": "Hartmann pipelines",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hartmann_pipeline"
+  },
+  {
+    "dil": "Haskell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Haskell"
+  },
+  {
+    "dil": "Haxe",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Haxe"
+  },
+  {
+    "dil": "Hermes",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hermes_(programming_language)"
+  },
+  {
+    "dil": "High Level Assembly",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/High_Level_Assembly"
+  },
+  {
+    "dil": "High Level Shader Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/High_Level_Shader_Language"
+  },
+  {
+    "dil": "Hollywood",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hollywood_(programming_language)"
+  },
+  {
+    "dil": "HolyC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TempleOS#HolyC"
+  },
+  {
+    "dil": "Hop",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hop_(software)"
+  },
+  {
+    "dil": "Hope",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hope_(programming_language)"
+  },
+  {
+    "dil": "Hopscotch",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hopscotch_(programming_language)"
+  },
+  {
+    "dil": "Hume",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hume_(programming_language)"
+  },
+  {
+    "dil": "HyperTalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/HyperTalk"
+  },
+  {
+    "dil": "Hy",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hy_(programming_language)"
+  },
+  {
+    "dil": "IBM Basic assembly language and successors",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IBM_Basic_assembly_language_and_successors"
+  },
+  {
+    "dil": "IBM Informix-4GL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IBM_Informix-4GL"
+  },
+  {
+    "dil": "IBM RPG",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IBM_RPG"
+  },
+  {
+    "dil": "Icon",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Icon_(programming_language)"
+  },
+  {
+    "dil": "IDL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IDL_(programming_language)"
+  },
+  {
+    "dil": "Idris",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Idris_(programming_language)"
+  },
+  {
+    "dil": "Inform",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Inform_(programming_language)"
+  },
+  {
+    "dil": "Instruction List",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Instruction_List"
+  },
+  {
+    "dil": "Io",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Io_(programming_language)"
+  },
+  {
+    "dil": "ISLISP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ISLISP"
+  },
+  {
+    "dil": "J",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/J_(programming_language)"
+  },
+  {
+    "dil": "J# (J sharp)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/J_Sharp"
+  },
+  {
+    "dil": "J++ (J plus plus)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_J++"
+  },
+  {
+    "dil": "JADE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JADE_(programming_language)"
+  },
+  {
+    "dil": "JAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JAL_(compiler)"
+  },
+  {
+    "dil": "Janus (concurrent constraint programming language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Janus_(concurrent_constraint_programming_language)"
+  },
+  {
+    "dil": "Janus (time-reversible computing programming language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Janus_(time-reversible_computing_programming_language)"
+  },
+  {
+    "dil": "JASS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JASS_(scripting_language)"
+  },
+  {
+    "dil": "Java",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Java_(programming_language)"
+  },
+  {
+    "dil": "JavaFX Script",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JavaFX_Script"
+  },
+  {
+    "dil": "JavaScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JavaScript"
+  },
+  {
+    "dil": "JCL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Job_Control_Language"
+  },
+  {
+    "dil": "JEAN",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JEAN"
+  },
+  {
+    "dil": "Jess",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Jess_(programming_language)"
+  },
+  {
+    "dil": "Join Java",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Join_Java"
+  },
+  {
+    "dil": "JOSS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JOSS"
+  },
+  {
+    "dil": "Joule",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Joule_(programming_language)"
+  },
+  {
+    "dil": "JOVIAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JOVIAL"
+  },
+  {
+    "dil": "Joy",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Joy_(programming_language)"
+  },
+  {
+    "dil": "jq",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Jq_(programming_language)"
+  },
+  {
+    "dil": "JScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JScript"
+  },
+  {
+    "dil": "JScript .NET",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/JScript_.NET"
+  },
+  {
+    "dil": "Julia",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Julia_(programming_language)"
+  },
+  {
+    "dil": "Jython",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Jython"
+  },
+  {
+    "dil": "K",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/K_(programming_language)"
+  },
+  {
+    "dil": "Kaleidoscope",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Kaleidoscope_(programming_language)"
+  },
+  {
+    "dil": "Karel",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Karel_(programming_language)"
+  },
+  {
+    "dil": "KEE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IntelliCorp_(Software)"
+  },
+  {
+    "dil": "Kent Recursive Calculator",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Kent_Recursive_Calculator"
+  },
+  {
+    "dil": "KiXtart",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/KiXtart"
+  },
+  {
+    "dil": "Klerer-May System",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Klerer-May_System"
+  },
+  {
+    "dil": "Knowledge Interchange Format",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Knowledge_Interchange_Format"
+  },
+  {
+    "dil": "Kodu",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Kodu_Game_Lab"
+  },
+  {
+    "dil": "Kojo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Kojo_(programming_language)"
+  },
+  {
+    "dil": "Kotlin",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Kotlin"
+  },
+  {
+    "dil": "KRL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/KRL_(programming_language)"
+  },
+  {
+    "dil": "KUKA Robot Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/KUKA_Robot_Language"
+  },
+  {
+    "dil": "KRYPTON",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/KRYPTON"
+  },
+  {
+    "dil": "KornShell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/KornShell"
+  },
+  {
+    "dil": "Kv (Kivy)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Kivy_(framework)#Kv_language"
+  },
+  {
+    "dil": "LabVIEW",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LabVIEW"
+  },
+  {
+    "dil": "Ladder",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ladder_logic"
+  },
+  {
+    "dil": "Language H",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Language_H"
+  },
+  {
+    "dil": "LANSA",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LANSA_(development_environment)"
+  },
+  {
+    "dil": "Lasso",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lasso_(programming_language)"
+  },
+  {
+    "dil": "LC-3",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Little_Computer_3"
+  },
+  {
+    "dil": "Lean",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lean_(proof_assistant)"
+  },
+  {
+    "dil": "Legoscript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Legoscript"
+  },
+  {
+    "dil": "LIL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Little_Implementation_Language"
+  },
+  {
+    "dil": "LilyPond",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LilyPond"
+  },
+  {
+    "dil": "Limbo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Limbo_(programming_language)"
+  },
+  {
+    "dil": "LINC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LINC_4GL"
+  },
+  {
+    "dil": "Lingo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lingo_(programming_language)"
+  },
+  {
+    "dil": "LINQ",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LINQ"
+  },
+  {
+    "dil": "LIS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LIS_(programming_language)"
+  },
+  {
+    "dil": "LISA",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Language_for_Instruction_Set_Architecture"
+  },
+  {
+    "dil": "Lisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lisp_(programming_language)"
+  },
+  {
+    "dil": "Lithe",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lithe_(programming_language)"
+  },
+  {
+    "dil": "Little b",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Little_b_(programming_language)"
+  },
+  {
+    "dil": "LiveCode",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LiveCode"
+  },
+  {
+    "dil": "LiveScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LiveScript_(programming_language)"
+  },
+  {
+    "dil": "LLL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ethereum#Contract_source_code"
+  },
+  {
+    "dil": "Logo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Logo_(programming_language)"
+  },
+  {
+    "dil": "Logtalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Logtalk"
+  },
+  {
+    "dil": "LotusScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LotusScript"
+  },
+  {
+    "dil": "LPC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LPC_(programming_language)"
+  },
+  {
+    "dil": "LSE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LSE_(programming_language)"
+  },
+  {
+    "dil": "LSL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Linden_Scripting_Language"
+  },
+  {
+    "dil": "Lua",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lua"
+  },
+  {
+    "dil": "Lucid",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lucid_(programming_language)"
+  },
+  {
+    "dil": "Lustre",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lustre_(programming_language)"
+  },
+  {
+    "dil": "LYaPAS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/LYaPAS"
+  },
+  {
+    "dil": "Lynx",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Lynx_(programming_language)"
+  },
+  {
+    "dil": "M Formula language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/M_Formula_language"
+  },
+  {
+    "dil": "M4",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/M4_(computer_language)"
+  },
+  {
+    "dil": "Machine code",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Machine_code"
+  },
+  {
+    "dil": "MAD",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MAD_(programming_language)"
+  },
+  {
+    "dil": "MAD/I",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MAD_(programming_language)"
+  },
+  {
+    "dil": "Magik",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Magik_(programming_language)"
+  },
+  {
+    "dil": "Magma",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Magma_computer_algebra_system"
+  },
+  {
+    "dil": "Maple",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Maple_(software)"
+  },
+  {
+    "dil": "MAPPER",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MAPPER"
+  },
+  {
+    "dil": "MARK-IV",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MARK_IV_(software)"
+  },
+  {
+    "dil": "Mary",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mary_(programming_language)"
+  },
+  {
+    "dil": "MASM Microsoft Assembly x86",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Microsoft_Macro_Assembler"
+  },
+  {
+    "dil": "MATLAB",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MATLAB"
+  },
+  {
+    "dil": "MATH-MATIC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MATH-MATIC"
+  },
+  {
+    "dil": "Maude system",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Maude_system"
+  },
+  {
+    "dil": "Max",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Max_(software)"
+  },
+  {
+    "dil": "Maxima",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Maxima_(software)"
+  },
+  {
+    "dil": "MaxScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Autodesk_3ds_Max"
+  },
+  {
+    "dil": "Maya (MEL)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Maya_Embedded_Language"
+  },
+  {
+    "dil": "MDL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MDL_(programming_language)"
+  },
+  {
+    "dil": "Mercury",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mercury_(programming_language)"
+  },
+  {
+    "dil": "Mesa",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mesa_(programming_language)"
+  },
+  {
+    "dil": "MHEG-5 (Interactive TV programming language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MHEG-5"
+  },
+  {
+    "dil": "Microcode",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Microassembler"
+  },
+  {
+    "dil": "Microsoft Power Fx",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Microsoft_Power_Fx"
+  },
+  {
+    "dil": "MIIS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MIIS_(programming_language)"
+  },
+  {
+    "dil": "MIMIC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MIMIC"
+  },
+  {
+    "dil": "Mirah",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mirah_(programming_language)"
+  },
+  {
+    "dil": "Miranda",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Miranda_(programming_language)"
+  },
+  {
+    "dil": "MIVA Script",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MIVA_Script"
+  },
+  {
+    "dil": "ML",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ML_(programming_language)"
+  },
+  {
+    "dil": "Model 204",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Model_204"
+  },
+  {
+    "dil": "Modelica",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Modelica"
+  },
+  {
+    "dil": "Modula",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Modula"
+  },
+  {
+    "dil": "Modula-2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Modula-2"
+  },
+  {
+    "dil": "Modula-3",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Modula-3"
+  },
+  {
+    "dil": "Mohol",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mohol_programming_languages"
+  },
+  {
+    "dil": "Mojo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mojo_(programming_language)"
+  },
+  {
+    "dil": "MOO",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MOO_(programming_language)"
+  },
+  {
+    "dil": "Mortran",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mortran"
+  },
+  {
+    "dil": "Mouse",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mouse_(programming_language)"
+  },
+  {
+    "dil": "MPD",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MPD_(programming_language)"
+  },
+  {
+    "dil": "MSL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MIRC_scripting_language"
+  },
+  {
+    "dil": "MUMPS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MUMPS"
+  },
+  {
+    "dil": "MuPAD",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/MuPAD"
+  },
+  {
+    "dil": "Mystic Programming Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Mystic_BBS"
+  },
+  {
+    "dil": "Napier88",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Napier88"
+  },
+  {
+    "dil": "NASM",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Netwide_Assembler"
+  },
+  {
+    "dil": "Neko",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Neko_(programming_language)"
+  },
+  {
+    "dil": "NELIAC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NELIAC"
+  },
+  {
+    "dil": "Nemerle",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nemerle"
+  },
+  {
+    "dil": "NESL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NESL"
+  },
+  {
+    "dil": "Net.Data",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Net.Data"
+  },
+  {
+    "dil": "NetLogo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NetLogo"
+  },
+  {
+    "dil": "NetRexx",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NetRexx"
+  },
+  {
+    "dil": "NewLISP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NewLISP"
+  },
+  {
+    "dil": "NEWP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NEWP"
+  },
+  {
+    "dil": "Newspeak",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Newspeak_(programming_language)"
+  },
+  {
+    "dil": "NewtonScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NewtonScript"
+  },
+  {
+    "dil": "Nial",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nial"
+  },
+  {
+    "dil": "Nim",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nim_(programming_language)"
+  },
+  {
+    "dil": "Nix",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nix_(package_manager)"
+  },
+  {
+    "dil": "Nord Programming Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nord_Programming_Language"
+  },
+  {
+    "dil": "Not eXactly C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Not_eXactly_C"
+  },
+  {
+    "dil": "Not Quite C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Not_Quite_C"
+  },
+  {
+    "dil": "Nu",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nu_(programming_language)"
+  },
+  {
+    "dil": "Nullsoft Scriptable Install System",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System"
+  },
+  {
+    "dil": "NWScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NWScript"
+  },
+  {
+    "dil": "NXT-G",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/NXT-G"
+  },
+  {
+    "dil": "o:XML",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/O:XML"
+  },
+  {
+    "dil": "Oak",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Oak_(programming_language)"
+  },
+  {
+    "dil": "Oberon",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Oberon_(programming_language)"
+  },
+  {
+    "dil": "OBJ2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OBJ2"
+  },
+  {
+    "dil": "Object Lisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Object_Lisp"
+  },
+  {
+    "dil": "ObjectLOGO",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ObjectLOGO"
+  },
+  {
+    "dil": "Object REXX",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Object_REXX"
+  },
+  {
+    "dil": "Object Pascal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Object_Pascal"
+  },
+  {
+    "dil": "Objective-C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Objective-C"
+  },
+  {
+    "dil": "Obliq",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Obliq"
+  },
+  {
+    "dil": "OCaml",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OCaml"
+  },
+  {
+    "dil": "occam",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Occam_(programming_language)"
+  },
+  {
+    "dil": "occam-π",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Occam-π"
+  },
+  {
+    "dil": "OmniMark",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OmniMark"
+  },
+  {
+    "dil": "Opa",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Opa_(programming_language)"
+  },
+  {
+    "dil": "Opal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Opal_(programming_language)"
+  },
+  {
+    "dil": "Open Programming Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Open_Programming_Language"
+  },
+  {
+    "dil": "OpenCL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OpenCL"
+  },
+  {
+    "dil": "OpenEdge Advanced Business Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OpenEdge_Advanced_Business_Language"
+  },
+  {
+    "dil": "OpenQASM",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OpenQASM"
+  },
+  {
+    "dil": "OPS5",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OPS5"
+  },
+  {
+    "dil": "OptimJ",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/OptimJ"
+  },
+  {
+    "dil": "Orc",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Orc_(programming_language)"
+  },
+  {
+    "dil": "ORCA/Modula-2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ORCA/Modula-2"
+  },
+  {
+    "dil": "Oriel",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Oriel_(scripting_language)"
+  },
+  {
+    "dil": "Orwell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Orwell_(programming_language)"
+  },
+  {
+    "dil": "Oxygene",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Oxygene_(programming_language)"
+  },
+  {
+    "dil": "Oz",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Oz_(programming_language)"
+  },
+  {
+    "dil": "P",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/P_(programming_language)"
+  },
+  {
+    "dil": "P4",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/P4_(programming_language)"
+  },
+  {
+    "dil": "P′′",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/P′′"
+  },
+  {
+    "dil": "ParaSail",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ParaSail_(programming_language)"
+  },
+  {
+    "dil": "PARI/GP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PARI/GP"
+  },
+  {
+    "dil": "Pascal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pascal_(programming_language)"
+  },
+  {
+    "dil": "Pascal Script",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pascal_Script"
+  },
+  {
+    "dil": "PCASTL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PCASTL"
+  },
+  {
+    "dil": "PCF",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Programming_language_for_Computable_Functions"
+  },
+  {
+    "dil": "PDL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Perl_Data_Language"
+  },
+  {
+    "dil": "PEARL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PEARL_(programming_language)"
+  },
+  {
+    "dil": "PeopleCode",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PeopleCode"
+  },
+  {
+    "dil": "Perl",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Perl"
+  },
+  {
+    "dil": "Pharo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pharo"
+  },
+  {
+    "dil": "PHP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PHP"
+  },
+  {
+    "dil": "Picolisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Picolisp"
+  },
+  {
+    "dil": "Pict",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pict_(programming_language)"
+  },
+  {
+    "dil": "Pike",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pike_(programming_language)"
+  },
+  {
+    "dil": "PILOT",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PILOT"
+  },
+  {
+    "dil": "Pipelines",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Hartmann_pipeline"
+  },
+  {
+    "dil": "Pizza",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pizza_(programming_language)"
+  },
+  {
+    "dil": "PL-11",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL-11"
+  },
+  {
+    "dil": "PL/0",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/0"
+  },
+  {
+    "dil": "PL/B",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Programming_Language_for_Business"
+  },
+  {
+    "dil": "PL/C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/C"
+  },
+  {
+    "dil": "PL/I",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/I"
+  },
+  {
+    "dil": "PL/M",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/M"
+  },
+  {
+    "dil": "PL/P",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/P"
+  },
+  {
+    "dil": "PL/S",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/S"
+  },
+  {
+    "dil": "PL/SQL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL/SQL"
+  },
+  {
+    "dil": "PL360",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PL360"
+  },
+  {
+    "dil": "PLANC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PLANC"
+  },
+  {
+    "dil": "Plankalkül",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Plankalkül"
+  },
+  {
+    "dil": "Planner",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Planner_(programming_language)"
+  },
+  {
+    "dil": "PLEX",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PLEX_(programming_language)"
+  },
+  {
+    "dil": "PLEXIL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PLEXIL"
+  },
+  {
+    "dil": "Plus",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Plus_(programming_language)"
+  },
+  {
+    "dil": "Pony",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pony_(programming_language)"
+  },
+  {
+    "dil": "POP-11",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/POP-11"
+  },
+  {
+    "dil": "POP-2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/POP-2"
+  },
+  {
+    "dil": "PostScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PostScript"
+  },
+  {
+    "dil": "PortablE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Amiga_E#PortablE"
+  },
+  {
+    "dil": "POV-Ray SDL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/POV-Ray"
+  },
+  {
+    "dil": "PowerBuilder",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PowerBuilder"
+  },
+  {
+    "dil": "Powerhouse",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Powerhouse_(programming_language)"
+  },
+  {
+    "dil": "PowerShell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PowerShell"
+  },
+  {
+    "dil": "PPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Polymorphic_Programming_Language"
+  },
+  {
+    "dil": "Processing",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Processing_(programming_language)"
+  },
+  {
+    "dil": "Processing.js",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Processing.js"
+  },
+  {
+    "dil": "Prograph",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Prograph"
+  },
+  {
+    "dil": "Project Verona",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Project_Verona"
+  },
+  {
+    "dil": "Prolog",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Prolog"
+  },
+  {
+    "dil": "PROMAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PROMAL"
+  },
+  {
+    "dil": "Promela",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Promela"
+  },
+  {
+    "dil": "PROSE modeling language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PROSE_modeling_language"
+  },
+  {
+    "dil": "PROTEL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Protel"
+  },
+  {
+    "dil": "Pro*C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pro*C"
+  },
+  {
+    "dil": "Pure",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pure_(programming_language)"
+  },
+  {
+    "dil": "Pure Data",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Pure_Data"
+  },
+  {
+    "dil": "PureScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/PureScript"
+  },
+  {
+    "dil": "Python",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Python_(programming_language)"
+  },
+  {
+    "dil": "Q (programming language from Kx Systems)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)"
+  },
+  {
+    "dil": "Q#",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Q_Sharp"
+  },
+  {
+    "dil": "Qalb",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Qalb_(programming_language)"
+  },
+  {
+    "dil": ".QL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/.QL"
+  },
+  {
+    "dil": "QPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Quantum_programming"
+  },
+  {
+    "dil": "QtScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/QtScript"
+  },
+  {
+    "dil": "QuakeC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/QuakeC"
+  },
+  {
+    "dil": "Quantum Computation Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Quantum_Computation_Language"
+  },
+  {
+    "dil": "R",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/R_(programming_language)"
+  },
+  {
+    "dil": "R++",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/R++"
+  },
+  {
+    "dil": "Racket",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Racket_(programming_language)"
+  },
+  {
+    "dil": "Raku",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Raku_(programming_language)"
+  },
+  {
+    "dil": "RAPID",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/RAPID"
+  },
+  {
+    "dil": "Rapira",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Rapira"
+  },
+  {
+    "dil": "Ratfiv",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ratfiv"
+  },
+  {
+    "dil": "Ratfor",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ratfor"
+  },
+  {
+    "dil": "rc",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Rc_(Unix_shell)"
+  },
+  {
+    "dil": "Reason",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Reason_(programming_language)"
+  },
+  {
+    "dil": "REBOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/REBOL"
+  },
+  {
+    "dil": "Red",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Red_(programming_language)"
+  },
+  {
+    "dil": "Redcode",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Core_War"
+  },
+  {
+    "dil": "REFAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/REFAL"
+  },
+  {
+    "dil": "ReScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ReScript"
+  },
+  {
+    "dil": "REXX",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/REXX"
+  },
+  {
+    "dil": "Rocq",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Rocq"
+  },
+  {
+    "dil": "RPG",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IBM_RPG"
+  },
+  {
+    "dil": "RPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/RPL_(programming_language)"
+  },
+  {
+    "dil": "RSL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Robot_Battle#Robot_scripting_language"
+  },
+  {
+    "dil": "RTL/2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/RTL/2"
+  },
+  {
+    "dil": "Ruby",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ruby_(programming_language)"
+  },
+  {
+    "dil": "Rust",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Rust_(programming_language)"
+  },
+  {
+    "dil": "S",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/S_(programming_language)"
+  },
+  {
+    "dil": "S-Lang",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/S-Lang"
+  },
+  {
+    "dil": "S-PLUS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/S-PLUS"
+  },
+  {
+    "dil": "S2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/S2_(programming_language)"
+  },
+  {
+    "dil": "S3",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/S3_(programming_language)"
+  },
+  {
+    "dil": "SA-C",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SA-C_(programming_language)"
+  },
+  {
+    "dil": "SabreTalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SabreTalk"
+  },
+  {
+    "dil": "SAIL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SAIL_(programming_language)"
+  },
+  {
+    "dil": "SAKO",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SAKO_(programming_language)"
+  },
+  {
+    "dil": "SAS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SAS_(software)"
+  },
+  {
+    "dil": "SASL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SASL_(programming_language)"
+  },
+  {
+    "dil": "Sather",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Sather"
+  },
+  {
+    "dil": "Sawzall",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Sawzall_(programming_language)"
+  },
+  {
+    "dil": "SBL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Superbase_database"
+  },
+  {
+    "dil": "Scala",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Scala_(programming_language)"
+  },
+  {
+    "dil": "Scheme",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Scheme_(programming_language)"
+  },
+  {
+    "dil": "Scilab",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Scilab"
+  },
+  {
+    "dil": "Scratch",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Scratch_(programming_language)"
+  },
+  {
+    "dil": "ScratchJr",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ScratchJr"
+  },
+  {
+    "dil": "Script.NET",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Script.NET"
+  },
+  {
+    "dil": "Sed",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Sed"
+  },
+  {
+    "dil": "Seed7",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Seed7"
+  },
+  {
+    "dil": "Self",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Self_(programming_language)"
+  },
+  {
+    "dil": "SenseTalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SenseTalk"
+  },
+  {
+    "dil": "SequenceL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SequenceL"
+  },
+  {
+    "dil": "Serpent",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ethereum#Programming_languages"
+  },
+  {
+    "dil": "SETL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SETL"
+  },
+  {
+    "dil": "Short Code",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Short_Code_(computer_language)"
+  },
+  {
+    "dil": "SIGNAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SIGNAL_(programming_language)"
+  },
+  {
+    "dil": "SiMPLE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SiMPLE"
+  },
+  {
+    "dil": "SIMPOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Superbase_database#History"
+  },
+  {
+    "dil": "SIMSCRIPT",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SIMSCRIPT"
+  },
+  {
+    "dil": "Simula",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Simula"
+  },
+  {
+    "dil": "Simulink",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Simulink"
+  },
+  {
+    "dil": "SISAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SISAL"
+  },
+  {
+    "dil": "SKILL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SKILL"
+  },
+  {
+    "dil": "SLIP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SLIP_(programming_language)"
+  },
+  {
+    "dil": "SMALL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SMALL"
+  },
+  {
+    "dil": "Smalltalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Smalltalk"
+  },
+  {
+    "dil": "SML",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Standard_ML"
+  },
+  {
+    "dil": "Snap!",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Snap!_(programming_language)"
+  },
+  {
+    "dil": "SNOBOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SNOBOL"
+  },
+  {
+    "dil": "Snowball",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Snowball_programming_language"
+  },
+  {
+    "dil": "SOL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Secure_Operations_Language"
+  },
+  {
+    "dil": "Solidity",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Solidity"
+  },
+  {
+    "dil": "SOPHAEROS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SOPHAEROS"
+  },
+  {
+    "dil": "Source",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Source_(programming_language)"
+  },
+  {
+    "dil": "SPARK",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SPARK_(programming_language)"
+  },
+  {
+    "dil": "Speakeasy",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Speakeasy_(computational_environment)"
+  },
+  {
+    "dil": "Speedcode",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Speedcoding"
+  },
+  {
+    "dil": "SPIN",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Parallax_Propeller"
+  },
+  {
+    "dil": "SP/k",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SP/k"
+  },
+  {
+    "dil": "SPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Systems_Programming_Language"
+  },
+  {
+    "dil": "SPS",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/IBM_1401_Symbolic_Programming_System"
+  },
+  {
+    "dil": "SQL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SQL"
+  },
+  {
+    "dil": "SQR",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SQR"
+  },
+  {
+    "dil": "Squeak",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Squeak"
+  },
+  {
+    "dil": "Squirrel",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Squirrel_(programming_language)"
+  },
+  {
+    "dil": "SR",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SR_(programming_language)"
+  },
+  {
+    "dil": "S/SL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/S/SL_programming_language"
+  },
+  {
+    "dil": "Starlogo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Starlogo"
+  },
+  {
+    "dil": "Stata",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Stata"
+  },
+  {
+    "dil": "Stateflow",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Stateflow"
+  },
+  {
+    "dil": "Strand",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Strand_(programming_language)"
+  },
+  {
+    "dil": "Strongtalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Strongtalk"
+  },
+  {
+    "dil": "Structured Text",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Structured_Text"
+  },
+  {
+    "dil": "Subtext",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Subtext_(programming_language)"
+  },
+  {
+    "dil": "SuperCollider",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SuperCollider"
+  },
+  {
+    "dil": "Superplan",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Superplan"
+  },
+  {
+    "dil": "SuperTalk",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SuperTalk"
+  },
+  {
+    "dil": "Swift (Apple programming language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Swift_(programming_language)"
+  },
+  {
+    "dil": "Swift (parallel scripting language)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Swift_(parallel_scripting_language)"
+  },
+  {
+    "dil": "SYCL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SYCL"
+  },
+  {
+    "dil": "SYMPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/SYMPL"
+  },
+  {
+    "dil": "T",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/T_(programming_language)"
+  },
+  {
+    "dil": "TACL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TACL_(programming_language)"
+  },
+  {
+    "dil": "TADS (Text Adventure Development System)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TADS"
+  },
+  {
+    "dil": "TAL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Transaction_Application_Language"
+  },
+  {
+    "dil": "tcl (aka tcl/tk )",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Tcl_(programming_language)"
+  },
+  {
+    "dil": "Tea",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Tea_(programming_language)"
+  },
+  {
+    "dil": "TECO (Text Editor and Corrector)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Text_Editor_and_Corrector"
+  },
+  {
+    "dil": "TELCOMP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TELCOMP"
+  },
+  {
+    "dil": "TeX",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TeX"
+  },
+  {
+    "dil": "TIE",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Tensilica_Instruction_Extension"
+  },
+  {
+    "dil": "TMG (TransMoGrifier)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TMG_(language)"
+  },
+  {
+    "dil": "Tom",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Tom_(pattern_matching_language)"
+  },
+  {
+    "dil": "Topspeed (Clarion)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Clarion_(programming_language)"
+  },
+  {
+    "dil": "TPU (Text Processing Utility)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Text_Processing_Utility"
+  },
+  {
+    "dil": "Trac",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TRAC_(programming_language)"
+  },
+  {
+    "dil": "T-SQL (Transact-SQL)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Transact-SQL"
+  },
+  {
+    "dil": "TTM",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TTM_(programming_language)"
+  },
+  {
+    "dil": "Transcript (LiveCode)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Transcript_(programming_language)"
+  },
+  {
+    "dil": "TTCN (Tree and Tabular Combined Notation)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TTCN"
+  },
+  {
+    "dil": "Turing",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Turing_(programming_language)"
+  },
+  {
+    "dil": "TUTOR",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TUTOR"
+  },
+  {
+    "dil": "TXL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TXL_(programming_language)"
+  },
+  {
+    "dil": "TypeScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/TypeScript"
+  },
+  {
+    "dil": "Tynker",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Tynker"
+  },
+  {
+    "dil": "Ubercode",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ubercode"
+  },
+  {
+    "dil": "UCSD Pascal",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/UCSD_Pascal"
+  },
+  {
+    "dil": "Umple",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Umple"
+  },
+  {
+    "dil": "Unicon",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Unicon_(programming_language)"
+  },
+  {
+    "dil": "Uniface",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Uniface_(programming_language)"
+  },
+  {
+    "dil": "UNITY",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/UNITY_(programming_language)"
+  },
+  {
+    "dil": "UnrealScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/UnrealScript"
+  },
+  {
+    "dil": "V",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/V_(programming_language)"
+  },
+  {
+    "dil": "Vala",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Vala_(programming_language)"
+  },
+  {
+    "dil": "Verse",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Verse_(coding)"
+  },
+  {
+    "dil": "Vim script",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script"
+  },
+  {
+    "dil": "Viper (Ethereum/Ether (ETH))",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Ethereum#Smart_contracts"
+  },
+  {
+    "dil": "Visual DataFlex",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_DataFlex"
+  },
+  {
+    "dil": "Visual DialogScript",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_DialogScript"
+  },
+  {
+    "dil": "Visual FoxPro",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_FoxPro"
+  },
+  {
+    "dil": "Visual J++ (Visual J plus plus)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_J++"
+  },
+  {
+    "dil": "Visual LISP",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/AutoLISP"
+  },
+  {
+    "dil": "Visual Objects",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_Objects"
+  },
+  {
+    "dil": "Visual Prolog",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Visual_Prolog"
+  },
+  {
+    "dil": "WATFIV",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/WATFIV"
+  },
+  {
+    "dil": "WebAssembly",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/WebAssembly"
+  },
+  {
+    "dil": "Whiley",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Whiley_(programming_language)"
+  },
+  {
+    "dil": "Wolfram Language",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Wolfram_Language"
+  },
+  {
+    "dil": "Wyvern",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Wyvern_(programming_language)"
+  },
+  {
+    "dil": "X++ (X plus plus/Microsoft Dynamics AX)",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/X++"
+  },
+  {
+    "dil": "X10",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/X10_(programming_language)"
+  },
+  {
+    "dil": "XBL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XBL"
+  },
+  {
+    "dil": "XC",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XC_(programming_language)"
+  },
+  {
+    "dil": "XL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XL_(programming_language)"
+  },
+  {
+    "dil": "Xod",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XOD_(programming_language)"
+  },
+  {
+    "dil": "Xojo",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Xojo"
+  },
+  {
+    "dil": "XOTcl",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XOTcl"
+  },
+  {
+    "dil": "XPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XPL"
+  },
+  {
+    "dil": "XPL0",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XPL0"
+  },
+  {
+    "dil": "XQuery",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XQuery"
+  },
+  {
+    "dil": "XSB",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XSB"
+  },
+  {
+    "dil": "XSLT",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/XSLT"
+  },
+  {
+    "dil": "Xtend",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Xtend"
+  },
+  {
+    "dil": "Yorick",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Yorick_(programming_language)"
+  },
+  {
+    "dil": "YQL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/YQL_(programming_language)"
+  },
+  {
+    "dil": "Z++",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Z++"
+  },
+  {
+    "dil": "Z shell",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Z_shell"
+  },
+  {
+    "dil": "Zebra, ZPL, ZPL2",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Zebra_(programming_language)"
+  },
+  {
+    "dil": "ZetaLisp",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ZetaLisp"
+  },
+  {
+    "dil": "Zig",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Zig_(programming_language)"
+  },
+  {
+    "dil": "Zonnon",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Zonnon"
+  },
+  {
+    "dil": "ZOPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ZOPL"
+  },
+  {
+    "dil": "ZPL",
+    "wiki_link": "https://en.wikipedia.org//en.wikipedia.org/wiki/ZPL_(programming_language)"
+  }
+]

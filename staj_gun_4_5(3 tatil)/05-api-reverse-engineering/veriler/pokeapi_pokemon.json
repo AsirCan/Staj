@@ -1,0 +1,122 @@
+[
+  {
+    "isim": "Bulbasaur",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/1/"
+  },
+  {
+    "isim": "Ivysaur",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/2/"
+  },
+  {
+    "isim": "Venusaur",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/3/"
+  },
+  {
+    "isim": "Charmander",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/4/"
+  },
+  {
+    "isim": "Charmeleon",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/5/"
+  },
+  {
+    "isim": "Charizard",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/6/"
+  },
+  {
+    "isim": "Squirtle",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/7/"
+  },
+  {
+    "isim": "Wartortle",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/8/"
+  },
+  {
+    "isim": "Blastoise",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/9/"
+  },
+  {
+    "isim": "Caterpie",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/10/"
+  },
+  {
+    "isim": "Metapod",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/11/"
+  },
+  {
+    "isim": "Butterfree",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/12/"
+  },
+  {
+    "isim": "Weedle",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/13/"
+  },
+  {
+    "isim": "Kakuna",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/14/"
+  },
+  {
+    "isim": "Beedrill",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/15/"
+  },
+  {
+    "isim": "Pidgey",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/16/"
+  },
+  {
+    "isim": "Pidgeotto",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/17/"
+  },
+  {
+    "isim": "Pidgeot",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/18/"
+  },
+  {
+    "isim": "Rattata",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/19/"
+  },
+  {
+    "isim": "Raticate",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/20/"
+  },
+  {
+    "isim": "Spearow",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/21/"
+  },
+  {
+    "isim": "Fearow",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/22/"
+  },
+  {
+    "isim": "Ekans",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/23/"
+  },
+  {
+    "isim": "Arbok",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/24/"
+  },
+  {
+    "isim": "Pikachu",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/25/"
+  },
+  {
+    "isim": "Raichu",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/26/"
+  },
+  {
+    "isim": "Sandshrew",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/27/"
+  },
+  {
+    "isim": "Sandslash",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/28/"
+  },
+  {
+    "isim": "Nidoran-f",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/29/"
+  },
+  {
+    "isim": "Nidorina",
+    "detay_url": "https://pokeapi.co/api/v2/pokemon/30/"
+  }
+]
