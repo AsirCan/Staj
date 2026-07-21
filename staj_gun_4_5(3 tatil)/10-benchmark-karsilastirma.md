@@ -3,20 +3,8 @@
 
 ---
 
-## ⚠️ Önce: Orijinal tablodaki temel sorunlar
 
-Karşılaştırmayı güncellerken dört yapısal sorunla karşılaştım, bunları düzelttim:
-
-1. **"Aider Leaderboard" bir araç değil, model metriğidir.** Aider Polyglot benchmark'ı, Claude Code / Cursor / Antigravity gibi *araçları* değil, çıplak *LLM'leri* Aider'ın kendi harness'i içinde test eder. Bir IDE'ye "Aider Leaderboard: %85" gibi bir skor atamak metodolojik bir hata — her araç farklı bir model (hatta çoklu model) kullanıyor ve kendi agent harness'iyle çalışıyor.
-2. **Resmi Aider Polyglot tablosu güncel değil.** aider.chat'teki resmi liste en son **20 Kasım 2025**'te güncellenmiş; Sonnet 5, Opus 4.8, Fable 5, Gemini 3.x veya GPT-5.6 gibi hiçbir 2026 modeli listede yok. En yüksek skor hâlâ GPT-5 (high) %88.0, en iyi Claude girdisi ise Mayıs 2025 tarihli eski Opus 4 (%72.0).
-3. **Model isimleri güncelliğini yitirmiş.** "Claude Fable" Claude Code'un varsayılan modeli değil (varsayılan Sonnet 5'tir); Antigravity artık Gemini 1.5 değil Gemini 3.5 Flash kullanıyor; Codex Temmuz 2026 itibarıyla GPT-5.6 ailesine geçti.
-4. **Cursor'un terminal erişimi yok iddiası yanlış.** Cursor'un Agent modu 2024 sonundan beri terminal komutlarını doğrudan çalıştırabiliyor; 2026'da Cloud/Background Agent'lar tamamen otonom şekilde izole VM'lerde terminal kullanıyor.
-
-Aşağıdaki tablo ve analizler bu düzeltmeler ışığında yeniden yazıldı.
-
----
-
-## 1. Güncellenmiş Karşılaştırma Tablosu
+## 1 Karşılaştırma Tablosu
 
 | Özellik | Claude Code (CLI) | Google Antigravity 2.0 | Cursor | OpenAI Codex | Cline (VS Code vb.) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
