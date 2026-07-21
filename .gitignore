@@ -1,10 +1,40 @@
-# Virtual environment
+# Virtual environments
 venv/
+.venv/
+env/
+.env/
+ENV/
 
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# PyTorch / ML eğitim çıktıları
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.safetensors
+
+# İndirilmiş veri setleri (torchvision otomatik indirir)
+data/
+datasets/
+*.tar.gz
+
+# Matplotlib / rapor çıktıları (isteğe göre kaldır)
+*.png
+*.jpg
+*.jpeg
+
+# Jupyter
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
@@ -13,3 +43,4 @@ __pycache__/
 # OS
 Thumbs.db
 .DS_Store
+desktop.ini
