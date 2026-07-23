@@ -156,7 +156,7 @@ DeepSeek'in belki en dikkat çekici yanı: mimari inovasyon (MLA) + verimlilik o
 
 ## Öne Çıkan Fikirler
 
-Bu ailelerdeki mimari yeniliklerin bir kısmı sanırım yaygınlaşacak. Beni en çok etkileyen dördü:
+Bu ailelerdeki mimari yeniliklerin bir kısmının yaygınlaşması bekleniyor. Öne çıkan dördü:
 
 ### DeepSeek'in MLA'sı
 

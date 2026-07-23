@@ -150,7 +150,7 @@ optimizer = optim.Adam(model.parameters(), lr=1e-3)
 #   - Epoch başına ortalama loss'u raporluyoruz
 
 # %%
-EPOCH = 3          # kısa tutuyorum, sen istersen 10-20 dene
+EPOCH = 3          # kısa tutuldu; daha iyi sonuç için 10-20 denenebilir
 
 for epoch in range(EPOCH):
     model.train()
@@ -178,7 +178,7 @@ for epoch in range(EPOCH):
 
     train_acc = 100 * dogru / toplam_ornek
 
-    # Validation (test set üstünde — kolay olsun diye ayrı val setine bölmedim)
+    # Validation (test set üstünde — kolay olsun diye ayrı val setine bölünmedi)
     model.eval()
     val_dogru = 0
     val_toplam = 0
@@ -242,21 +242,21 @@ print("Model kaydedildi → cifar10_cnn.pt")
 # eğitim döngüsünün nasıl çalıştığını **görmek** önemli, kazanan model
 # yapmak değil.
 #
-# Bu betiği koşturunca (özellikle test acc'nin train acc'yi geride bırakıp
+# Bu betik koşturulunca (özellikle test acc'nin train acc'yi geride bırakıp
 # bırakmadığı, loss eğrisinin nasıl indiği) `04-deep-learning-temelleri.md`
-# dosyasında yazdığım overfitting ve eğitim dinamiği gözlemlerini elle
-# doğrulamış oluyorum.
+# dosyasındaki overfitting ve eğitim dinamiği gözlemleri elle
+# doğrulanmış oluyor.
 
 # %% [markdown]
 # ## Öz — Blitz Tamamlandı
 #
-# 4 dosyada gördüklerim:
+# 4 dosyanın kapsadıkları:
 #   1. `01-tensor.py`  → PyTorch'un temel veri tipi.
 #   2. `02-autograd.py` → Otomatik türevin nasıl çalıştığı.
 #   3. `03-nn-module.py` → `nn.Module` + optimizer + loss şablonu.
 #   4. `04-cifar10.py` → Şablonun gerçek bir problemde uçtan uca kullanımı.
 #
-# Artık PyTorch'la yeni bir problem gördüğümde ne yapacağımı biliyorum:
+# Bu şablon sayesinde PyTorch'la yeni bir probleme yaklaşmanın standart yolu şu:
 #   - Model'i `nn.Module`'dan miras alarak yaz
 #   - Uygun loss ve optimizer seç
 #   - DataLoader'la batch'leri hazırla

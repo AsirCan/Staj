@@ -22,7 +22,7 @@ Bu yüzden ML "programlamanın tersine mühendisliği" gibi. Kural yazmak yerine
 - **Unsupervised (gözetimsiz)**: cevap yok. Model veri içindeki yapıyı kendi çıkarıyor (kümeleme, boyut indirgeme).
 - **Reinforcement (pekiştirmeli)**: model bir ortamda hareket ediyor, ödül-ceza ile öğreniyor. Oyun oynayan AI'lar (AlphaGo) böyle.
 
-Bundan sonrasını supervised üstünden anlatacağım — ML'in %90'ı zaten bu.
+Bundan sonrası supervised üstünden anlatılıyor — ML'in %90'ı zaten bu.
 
 ---
 
@@ -40,7 +40,7 @@ Ama düz fonksiyondan farkı: modelin içinde **öğrenilebilir sayılar** var. 
 
 ### 2.1 Basit örnek: doğrusal regresyon
 
-Diyelim ki bir evin fiyatını tahmin etmek istiyorum, tek girdim var: metrekare.
+Diyelim ki bir evin fiyatı tahmin edilmek isteniyor, tek girdi var: metrekare.
 
 ```
 fiyat = w * metrekare + b
@@ -74,7 +74,7 @@ Genelde:
 
 Bir modele karar verdiğinde aslında "bu problemin cevabı şu formüle uyuyor" diyorsun. Doğrusal model dersen, "cevap bir doğrudur" varsayımı yapıyorsun. Neural network dersen "cevap çok daha karmaşık bir fonksiyon olabilir" varsayımı yapıyorsun.
 
-Bu yüzden model seçimi = **hipotez sınıfı seçimi**. Bunun altını çizmek istiyorum çünkü ilk başta "model = kod" gibi düşünmüştüm, aslında matematiksel bir seçimmiş.
+Bu yüzden model seçimi = **hipotez sınıfı seçimi**. Bu ayrım önemli: "model = kod" gibi görünse de aslında matematiksel bir varsayım seçimidir.
 
 ---
 
@@ -90,7 +90,7 @@ Bir modelin "büyüklüğü" dediğimizde genelde parametre sayısını kastediy
 
 ### 3.1 Parametre ≠ Hiperparametre
 
-Bu ayrımı ilk başta karıştırmıştım.
+Bu ayrım sıkça karıştırılır.
 
 - **Parametre**: modelin **eğitim sırasında** öğrendiği sayı. Sen dokunmazsın, veriden gelir. Örnek: `w`, `b`.
 - **Hiperparametre**: modelin nasıl eğitileceğini belirleyen, **sen elle** ayarladığın sayı. Örnek: learning rate, katman sayısı, batch size, epoch sayısı.
@@ -122,7 +122,7 @@ Genel akış (bu döngü ML'in kalbi):
 8. Bütün veriyi bir kere tarayınca 1 epoch bitmiş olur. Yeterince epoch koştur.
 ```
 
-Bu döngüye **training loop** deniyor. Deep Learning bölümünde (`04-`) her adımını tek tek açacağım. Burada sadece kavramsal bakalım.
+Bu döngüye **training loop** deniyor. Deep Learning bölümünde (`04-`) her adım tek tek açıklanıyor. Burada kavramsal düzeyde kalınıyor.
 
 ### 4.1 "Öğrenmek" ne demek matematiksel olarak?
 
@@ -181,7 +181,7 @@ BCE = - [ y * log(p) + (1-y) * log(1-p) ]
 
 Kedi/köpek/kuş gibi. En çok kullanılan loss. Modelin doğru sınıfa verdiği olasılığın logaritmasını eksi işaretle alıyoruz. Model %90 dediyse loss küçük; %10 dediyse büyük.
 
-Not: bunların hepsinin **istatistiksel türetimi** var, `01-olasilik-istatistik.md`'de MLE bölümünde yazdım.
+Not: bunların hepsinin **istatistiksel türetimi** var, `01-olasilik-istatistik.md`'deki MLE bölümünde ele alındı.
 
 ### 5.4 Loss ≠ Metric
 
@@ -244,7 +244,7 @@ Eğitim setine sızıntı olması modeli haksız yere iyi göstermesi demek. Ör
 - Aynı kullanıcının farklı örneklerinin hem train hem test'e düşmesi. Model kişiyi tanıyıp cevap veriyor.
 - Zaman serisi verisinde geleceği eğitim setinde görmek — gerçek hayatta olmayacak bir avantaj.
 
-Ben genelde bu tuzağa düşme ihtimalim en yüksek olan yerin, "veriyi zaman ekseninden ayırmak" olduğunu okudum. Zaman serilerinde train hep test'ten önce olmalı.
+Bu tuzağa en çok düşülen yer zaman serisi verileridir: zaman serilerinde train seti hep test'ten önceki dönemden gelmeli.
 
 ---
 
@@ -277,13 +277,13 @@ Ben genelde bu tuzağa düşme ihtimalim en yüksek olan yerin, "veriyi zaman ek
    Eğitim biterse → Test setinde bir kere ölç → rapor.
 ```
 
-Bu şemayı Deep Learning bölümünde (`04-`) satır satır PyTorch koduna dönüştüreceğim.
+Bu şema Deep Learning bölümünde (`04-`) satır satır PyTorch koduna dönüştürülüyor.
 
 ---
 
-## 8. Küçük scikit-learn örneği (kavramları koda döktüm)
+## 8. Küçük scikit-learn örneği (kavramların koda dökülmüş hali)
 
-Notebook'ta çalıştırabileceğim minimum örnek:
+Notebook'ta çalıştırılabilecek minimum örnek:
 
 ```python
 from sklearn.datasets import load_iris
@@ -315,7 +315,7 @@ print("Öğrenilen bias:", model.intercept_)
 ```
 
 Burada:
-- `model = LogisticRegression(...)` → **hipotez sınıfını** seçtim.
+- `model = LogisticRegression(...)` → **hipotez sınıfı** seçimi.
 - `model.fit(...)` → **eğitim** (parametre optimizasyonu).
 - `model.coef_`, `model.intercept_` → **öğrenilmiş parametreler**.
 - `accuracy_score(...)` → **metric** (loss'tan farklı).

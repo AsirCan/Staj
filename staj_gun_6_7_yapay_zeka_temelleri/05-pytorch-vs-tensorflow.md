@@ -211,13 +211,13 @@ Klasik ML lazım olursa (küçük tablo veriler için) `scikit-learn` yeter, ayr
 
 Bir sonraki konu: **PyTorch 60-Minute Blitz** (`06-pytorch-60-min-blitz/`).
 
-Burada teorik olarak seçtiğim aracı pratikte deneyeceğim. Blitz'in dört bölümü:
+Burada teorik olarak öne çıkan araç pratikte deneniyor. Blitz'in dört bölümü:
 1. Tensor'lar (PyTorch'un temel veri tipi).
 2. Autograd (otomatik türev, backprop'un kod hali).
 3. Neural network kurma (`nn.Module`).
 4. Bir görüntü sınıflandırıcının uçtan uca eğitilmesi (CIFAR10).
 
-Böylece yukarıda anlattığım her şey (forward, loss, backward, optimizer, epoch) gerçek koda dönüşecek.
+Böylece yukarıda anlatılan her şey (forward, loss, backward, optimizer, epoch) gerçek koda dönüşüyor.
 
 ---
 

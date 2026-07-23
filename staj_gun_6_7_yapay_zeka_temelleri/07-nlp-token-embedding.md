@@ -16,7 +16,7 @@ Görevlerin bazıları şunlar:
 - Metnin içindeki isim, yer, tarih gibi varlıkları çıkarma (NER — Named Entity Recognition)
 - **Bir sonraki kelimeyi tahmin etmek** — bu görev şu an tüm modern LLM'lerin kalbi
 
-Son madde çok önemli çünkü ChatGPT, Claude, Gemini gibi sistemler aslında yalnızca "bir sonraki tokeni tahmin etmek" üzerine eğitilmişler. Sohbet edebilmeleri, kod yazabilmeleri, matematik problemi çözebilmeleri hep bu tek görevin tekrar tekrar uygulanmasından çıkıyor. Bir yerde okumuştum: "yeterince iyi bir 'sonraki kelime tahmini' modeli, aslında dünyayı anlamak zorundadır." Şu an bunun ne demek olduğunu daha iyi kavrıyorum.
+Son madde çok önemli çünkü ChatGPT, Claude, Gemini gibi sistemler aslında yalnızca "bir sonraki tokeni tahmin etmek" üzerine eğitilmişler. Sohbet edebilmeleri, kod yazabilmeleri, matematik problemi çözebilmeleri hep bu tek görevin tekrar tekrar uygulanmasından çıkıyor. Bu alanda sık tekrarlanan bir gözlem şudur: yeterince iyi bir "sonraki kelime tahmini" modeli, iyi tahmin yapabilmek için aslında dünyayı bir ölçüde modellemek zorundadır.
 
 ---
 
@@ -212,7 +212,7 @@ Daha büyük embedding, daha çok anlam kapasitesi ama daha çok bellek ve hesap
 
 ## Tüm Boru Hattı
 
-Bu iki kavramı (token + embedding) modelin giriş kapısı olarak düşünüyorum:
+Bu iki kavram (token + embedding) modelin giriş kapısı olarak düşünülebilir:
 
 ```
 ham metin: "Merhaba dünya"

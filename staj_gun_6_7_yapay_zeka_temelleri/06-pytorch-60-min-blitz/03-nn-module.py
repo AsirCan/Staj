@@ -221,7 +221,7 @@ y_gpu = y_train.to(device)
 # %% [markdown]
 # ## Öz
 #
-# Bu bölümde artık standart PyTorch şablonuna geçtim:
+# Bu bölümde artık standart PyTorch şablonu kullanılıyor:
 #     model = MyModel()
 #     loss_fn = nn.XxxLoss()
 #     optimizer = optim.Adam(model.parameters(), lr=...)
@@ -236,8 +236,8 @@ y_gpu = y_train.to(device)
 #
 # Bu 8 satır, PyTorch'la yazılan her eğitim döngüsünün özü.
 #
-# Sonraki dosya (`04-cifar10.py`): bu şablonu gerçek bir problemde
-# (CIFAR10 görüntü sınıflandırma) kullanacağım.
+# Sonraki dosya (`04-cifar10.py`): bu şablon gerçek bir problemde
+# (CIFAR10 görüntü sınıflandırma) kullanılıyor.
 """
 Bölüm 4 için not: modelin adı kalabalık olabilir diye ayrı bir dosyada.
 Şimdilik `.pt` dosyasını da silmeyeyim, sonra silerim.

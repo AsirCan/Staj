@@ -11,7 +11,7 @@ Transformer'ın kuş bakışı yapısını görmek başlangıç için yeterli de
 7. Residual Connections
 8. Token Prediction — çıktı nasıl üretiliyor
 
-Bu, Transformer mimarisi içinde en zor kısım. Yavaş yavaş, örneklerle gitmeye çalıştım.
+Bu, Transformer mimarisi içinde en zor kısım. Aşağıda yavaş yavaş, örneklerle ilerleniyor.
 
 ---
 

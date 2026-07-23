@@ -5,7 +5,7 @@
 - **Olasılık (probability)**: "gelecekte bir şeyin olma şansı ne?" sorusuna cevap verir. Elimizde kural veya dağılım var, ondan tahmin üretiyoruz.
   Örnek: Adil bir zar attığımda 6 gelme olasılığı = 1/6.
 - **İstatistik (statistics)**: elimizde bir sürü **veri** var, buradan "bu veriyi üreten süreç neye benziyor?" diye çıkarım yapıyoruz.
-  Örnek: 1000 kere zar attım, 6'nın kaç kez geldiğine bakıp zarın adil olup olmadığına karar veriyorum.
+  Örnek: 1000 kere zar atılır, 6'nın kaç kez geldiğine bakılıp zarın adil olup olmadığına karar verilir.
 
 Yani ikisi birbirinin tersi gibi:
 - Olasılık: **model → veri** yönünde çalışır ("bu modele göre ne bekliyoruz?").
@@ -24,7 +24,7 @@ Bunu bir kere kabul edince, aşağıdaki her şey yerine oturuyor:
 - Modelin öğrenme kuralı → **verinin olabilirliğini (likelihood) en büyükleme**.
 - Modelin başarısı → **istatistiksel genelleme** (görmediği veride de tutması).
 
-Şimdi bunları tek tek açacağım.
+Aşağıda bunlar tek tek ele alınıyor.
 
 ---
 
@@ -72,7 +72,7 @@ Sonra oradan bir **örnekleme** (sampling) yapıyor. Yöntem birkaç tane:
 - **Top-p (nucleus)**: toplam olasılığı %90 (veya belirlediğimiz p) olan kümenin içinden çek.
 - **Temperature**: dağılımı yayıp toplayan bir ayar. Yüksek temperature = daha "yaratıcı" ama saçmalayabilir; düşük = tutucu ve tekrar edici.
 
-### 2.4 Buradan çıkardığım büyük ders
+### 2.4 Buradan çıkan temel sonuç
 
 "AI gerçekten düşünüyor mu?" sorusunun istatistik cevabı: hayır. Model **veriden çıkardığı olasılık dağılımından örnekleme** yapıyor. Zeki gibi görünmesi, dağılımın gerçekten çok iyi öğrenilmiş olmasından.
 
@@ -82,7 +82,7 @@ Bunu anlamadan halüsinasyon, temperature ayarı, sampling yöntemleri, "aynı p
 
 ## 3. Ortalama, varyans, dağılım — bunlar sadece ders konusu değil, kod içinde var
 
-Bu bölümü yazarken en çok "aa demek buradan geliyormuş" dediğim yer.
+Bu kavramlar teorik ders konusu gibi görünse de eğitim kodunun her adımında karşımıza çıkıyor.
 
 ### 3.1 Ortalama (mean)
 
@@ -165,7 +165,7 @@ Terimlerin adları:
 - `P(B | A)` → **likelihood** (A doğruysa B'yi görme olasılığı).
 - `P(A | B)` → **posterior** (sonsal, veriyi gördükten sonraki inanç).
 
-Bayes teoremi aslında şunu diyor: bir şey hakkında bir ön inancım var; yeni bir veri geldi; inancımı güncelliyorum.
+Bayes teoremi aslında şunu diyor: bir şey hakkında bir ön inanç vardır; yeni bir veri gelir; bu inanç güncellenir.
 
 ### 4.2 Spam filtresi örneği (adım adım)
 
@@ -198,9 +198,9 @@ Kısacası, sınıflandırma problemi = **koşullu olasılık tahmini**. Bunu bi
 
 ---
 
-## 5. Maximum Likelihood → Loss fonksiyonu (bu bölüm en çok "aha" anımdı)
+## 5. Maximum Likelihood → Loss fonksiyonu
 
-Loss fonksiyonlarını yıllarca ezberliyordum: "sınıflandırmada cross-entropy, regresyonda MSE". Ama neden? Meğer hepsi Maximum Likelihood'dan çıkıyormuş.
+Loss fonksiyonları çoğu zaman ezberlenir: "sınıflandırmada cross-entropy, regresyonda MSE". Peki neden? Hepsi tek bir ilkeden, Maximum Likelihood'dan çıkıyor.
 
 ### 5.1 Maximum Likelihood Estimation (MLE) nedir?
 
@@ -352,9 +352,9 @@ Hepsi aynı çekirdeği farklı bir noktadan yontuyor.
 
 ---
 
-## 8. Kendim için özet şeması
+## 8. Özet şema
 
-Bir yerden başlayıp diğerine geçebileceğim bir zihinsel harita:
+Kavramlar arasındaki bağlantıyı gösteren bir zihinsel harita:
 
 ```
 [ İstatistik / Olasılık ]

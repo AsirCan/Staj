@@ -212,12 +212,12 @@ print(f"b = {b.item():.3f}")
 # %% [markdown]
 # ## Öz
 #
-# Bu bölümde şunları oturttum:
-# - `requires_grad=True` diyerek bir tensor'u "takip edilebilir" yaptım.
-# - `.backward()` ile PyTorch zincir kuralını uygulayıp gradyanları hesapladı.
+# Bu bölümün kapsadıkları:
+# - `requires_grad=True` bir tensor'u "takip edilebilir" yapar.
+# - `.backward()` ile PyTorch zincir kuralını uygulayıp gradyanları hesaplar.
 # - `.grad` attribute'unda gradyanlar birikiyor — her adımda sıfırlamak lazım.
 # - `torch.no_grad()` inference'ta hem hız hem hafıza kazandırıyor.
-# - Manuel bir gradient descent örneğiyle "eğitim döngüsünün özünü" gördüm.
+# - Manuel bir gradient descent örneği "eğitim döngüsünün özünü" gösteriyor.
 #
 # Bir sonraki dosya (`03-nn-module.py`) bu döngüyü `nn.Module`, `optimizer`
 # ve `loss` sınıflarıyla profesyonel hale getirecek.

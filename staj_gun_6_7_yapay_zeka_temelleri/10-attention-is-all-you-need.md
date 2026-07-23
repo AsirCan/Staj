@@ -133,7 +133,7 @@ Bu tablonun kendisi sonraki araştırmalara bir metodolojik model oldu — "her 
 
 ## Neden "Devrim"?
 
-Makalenin önemini dört ana başlıkta topluyorum.
+Makalenin önemi dört ana başlıkta toplanabilir.
 
 ### 1) Paralel Eğitim Mümkün Oldu
 
@@ -181,13 +181,13 @@ Bu genellik, Transformer'ın sadece bir "NLP mimarisi" olmadığını, daha gene
 
 **Attention görselleştirmeleri (Section 6.4).** Bazı head'lerin gerçekten anlamlı örüntüler öğrendiğini gösteriyorlar. Bir head bir zamiri, ait olduğu isme bağlıyor. Başka bir head bir sayı ifadesini konteksti içindeki ilgili kelimeye bağlıyor. Bu görselleştirmeler interpretability araştırmalarının başlangıç noktasından biri.
 
-**Öğrenmediğim / atlanmış detaylar.** Label smoothing parametresi (0.1) neden bu değer, warmup schedule matematik detayı, BLEU hesabı — bunlar makalenin ana mesajından çok pratik eğitim ipuçları. Bir makaleyi ilk okumada bu tür detaylara girmek gerekmiyor.
+**Atlanabilecek detaylar.** Label smoothing parametresi (0.1) neden bu değer, warmup schedule matematik detayı, BLEU hesabı — bunlar makalenin ana mesajından çok pratik eğitim ipuçları. Bir makaleyi ilk okumada bu tür detaylara girmek gerekmiyor.
 
 ---
 
 ## Bu Makale Olmasaydı Ne Olurdu?
 
-Alandan uzak da olsa şöyle bir spekülasyon yapmak istiyorum:
+Alandan uzak da olsa şöyle bir spekülasyon yapılabilir:
 
 LLM'ler yine muhtemelen olurdu, ama daha yavaş gelirdi. Belki 2025 yerine 2030'lar. Çünkü asıl darboğaz "paralel eğitilebilir bir sekans modeli" idi. Transformer bunu çözdü.
 
