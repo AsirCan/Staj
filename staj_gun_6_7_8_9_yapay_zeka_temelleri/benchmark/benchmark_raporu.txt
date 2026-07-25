@@ -1,0 +1,25 @@
+==================================================================
+      PyTorch vs TensorFlow  —  BENCHMARK RAPORU
+==================================================================
+ Tarih         : 24.07.2026 12:42
+ GPU           : NVIDIA GeForce RTX 4050 Laptop GPU (6.0 GB VRAM)
+ CUDA (torch)  : 12.1
+ PyTorch       : 2.5.1+cu121
+ TensorFlow    : 2.21.0  (CPU — Windows'ta GPU desteklenmiyor)
+ İş yükü       : Sentetik veri (3x32x32), aynı CNN, batch=64,
+                 200 ölçülen adım (12.800 görüntü), 30 adım warm-up dışı
+------------------------------------------------------------------
+ Konfigürasyon               Süre(s)   Görüntü/sn   Hızlanma
+------------------------------------------------------------------
+ PyTorch — GPU (4050)           0.32        39626       8.5x
+ PyTorch — CPU                  2.75         4650       1.0x
+ TensorFlow — CPU               1.27        10064       2.2x
+------------------------------------------------------------------
+ Sonuç: En hızlı 'PyTorch — GPU',
+        en yavaş 'PyTorch — CPU' konfigürasyonuna
+        göre ~8.5x daha hızlı.
+        RTX 4050 (PyTorch GPU) tepe VRAM kullanımı: 0.09 GB
+==================================================================
+ Not: Bu bir HAM EĞİTİM HIZI (throughput) kıyasıdır. Sentetik veri
+ kullanılır; amaç iki framework'ün compute hızını izole ölçmektir.
+==================================================================

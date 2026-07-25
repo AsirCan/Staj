@@ -44,3 +44,32 @@ datasets/
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# Log ve kurulum çıktıları
+*.log
+
+# Gizli bilgiler — API anahtarı / token / kimlik bilgisi (git'e ASLA gitmesin)
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.secret
+secrets.*
+credentials*.json
+*_credentials.*
+*apikey*
+*api_key*
+*.token
+token.json
+service-account*.json
+.claude/settings.local.json
+
+# TensorFlow / Keras büyük model dosyaları
+*.h5
+*.keras
+*.pb
+
+# Keras veri seti önbelleği
+.keras/
