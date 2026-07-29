@@ -1,0 +1,14 @@
+# Staj ortamı - Python 3.13, Windows, RTX 4050 (CUDA 13.0)
+#
+# Kurulum:
+#   uv venv --python 3.13 .venv
+#   uv pip install --python .venv/Scripts/python.exe -r requirements.txt
+#   uv pip install --python .venv/Scripts/python.exe torch==2.13.0+cu130 --index-url https://download.pytorch.org/whl/cu130
+#
+# NOT: torch'u yukarıdaki ayrı komutla kurmak gerekiyor, çünkü CUDA yapısı
+# normal PyPI'da değil, PyTorch'un kendi indeksinde duruyor. Bu satırı
+# requirements.txt'e koyarsam GPU'suz (CPU) sürüm inerdi.
+
+ipykernel
+matplotlib
+numpy
