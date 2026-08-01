@@ -51,6 +51,7 @@ desktop.ini
 # Gizli bilgiler — API anahtarı / token / kimlik bilgisi (git'e ASLA gitmesin)
 .env
 .env.*
+!.env.example
 *.key
 *.pem
 *.pfx
