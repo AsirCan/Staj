@@ -71,6 +71,9 @@ def main() -> int:
         print("Ollama acik degil. Ollama uygulamasini veya `ollama serve` komutunu baslatin.")
         return 1
 
+    api_url = f"http://127.0.0.1:{args.api_port}"
+    ui_url = f"http://127.0.0.1:{args.ui_port}"
+
     api_env = os.environ.copy()
     api_env["API_PORT"] = str(args.api_port)
     api_process = subprocess.Popen(

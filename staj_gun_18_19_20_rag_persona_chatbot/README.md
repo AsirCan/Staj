@@ -67,9 +67,9 @@ Testler chunking sınırlarını, collector HTML ayrıştırmasını, FastAPI ş
 
 ## Rapor ve Ekran Görüntüleri
 
-`docs/rapor.md` güncellenmiş ve aşağıdaki görseller `docs/screenshots/` klasörüne eklenmiştir:
+`rapor/rapor.md` güncellenmiş ve aşağıdaki görseller `rapor/screenshots/` klasörüne eklenmiştir:
 
-- `docs/screenshots/swagger-docs.png` — Canlı Swagger API testi.
-- `docs/screenshots/scenario-1-theme.png` — Tema analizi ekran görüntüsü.
-- `docs/screenshots/scenario-2-song-search.png` — Şarkı arama ve kaynak eşleştirme.
-- `docs/screenshots/scenario-3-no-context.png` — Güvenli bağlam dışı durum.
+- `rapor/screenshots/swagger-docs.png` — Canlı Swagger API testi.
+- `rapor/screenshots/scenario-1-theme.png` — Tema analizi ekran görüntüsü.
+- `rapor/screenshots/scenario-2-song-search.png` — Şarkı arama ve kaynak eşleştirme.
+- `rapor/screenshots/scenario-3-no-context.png` — Güvenli bağlam dışı durum.
