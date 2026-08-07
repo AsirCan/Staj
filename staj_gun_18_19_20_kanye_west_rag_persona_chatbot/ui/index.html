@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YE // LYRIC & PERSONA ARCHIVE</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Background Dot Grid Texture -->
+    <div class="dot-grid-bg"></div>
+    <div class="ambient-glow"></div>
+
+    <!-- Icon-Only Navigation Rail -->
+    <nav class="nav-rail">
+        <div class="nav-top">
+            <div class="logo" title="Kanye West Archive Monolith">
+                <img src="logo.png" alt="YE Logo" class="brand-logo-img" />
+            </div>
+            <button class="nav-btn active" id="navWorkspace" title="Workspace Intelligence">
+                <span class="active-indicator"></span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="3" y="3" width="7" height="7" rx="2"></rect>
+                    <rect x="14" y="3" width="7" height="7" rx="2"></rect>
+                    <rect x="14" y="14" width="7" height="7" rx="2"></rect>
+                    <rect x="3" y="14" width="7" height="7" rx="2"></rect>
+                </svg>
+            </button>
+            <button class="nav-btn" id="navExplorer" title="ChromaDB Index Explorer">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <ellipse cx="12" cy="5" rx="9" ry="3"></ellipse>
+                    <path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path>
+                    <path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path>
+                </svg>
+            </button>
+            <button class="nav-btn" id="navGraph" title="Persona Graph & Themes">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="18" cy="18" r="3"></circle>
+                    <circle cx="6" cy="6" r="3"></circle>
+                    <path d="M6 21V9a3 3 0 0 1 3-3h12"></path>
+                </svg>
+            </button>
+        </div>
+        <div class="nav-bottom">
+            <button class="nav-btn" title="Clear Monologue Context" id="clearBtn">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3 6h18"></path>
+                    <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                </svg>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Main Workspace -->
+    <main class="workspace">
+        <div class="document-area">
+            <!-- Header (Title & Alive Status Indicator) -->
+            <header class="doc-header">
+                <div class="header-title-group">
+                    <h1 class="doc-title" id="docTitle">KANYE WEST LYRIC & PERSONA ARCHIVE</h1>
+                </div>
+                <div class="doc-meta">
+                    <div class="status-badge" id="statusBadge">
+                        <span class="status-dot-pulsing"></span>
+                        <span class="status-text" id="statusText">CHROMADB ONLINE • 14ms</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Conversation Flow Container -->
+            <div class="conversation-flow" id="conversationFlow">
+                <div class="empty-state">
+                    <div class="empty-state-content">
+                        <div class="hero-brand-symbol">
+                            <img src="logo.png" alt="YE Logo" class="hero-logo-img" />
+                        </div>
+                        <h2 class="hero-headline">Kanye West Lyric & Persona Archive</h2>
+                        <p class="hero-subtitle">Synthesize thematic insights, vulnerability, conflict, and faith directly from local ChromaDB vector retrieval embeddings.</p>
+                        
+                        <div class="suggestion-tags">
+                            <button class="tag" onclick="fillPrompt('Compare the theme of faith in Ultralight Beam and Jesus Walks.')">
+                                <svg class="tag-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M12 2v20M2 12h20"/>
+                                </svg>
+                                <span>Faith & Struggle</span>
+                            </button>
+                            <button class="tag" onclick="fillPrompt('How does Kanye express vulnerability in Runaway?')">
+                                <svg class="tag-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
+                                </svg>
+                                <span>Vulnerability</span>
+                            </button>
+                            <button class="tag" onclick="fillPrompt('What are the recurring themes regarding his family in Off the Grid?')">
+                                <svg class="tag-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+                                    <circle cx="9" cy="7" r="4"/>
+                                    <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
+                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                                </svg>
+                                <span>Family Duty</span>
+                            </button>
+                            <button class="tag" onclick="fillPrompt('How does Kanye portray ambition and ego across his early vs late albums?')">
+                                <svg class="tag-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+                                </svg>
+                                <span>Ego & Ambition</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Dynamic Response Nodes Go Here -->
+            </div>
+            
+            <!-- Command-Palette Input Bar -->
+            <div class="composer-container">
+                <div class="composer">
+                    <button class="composer-action" title="Vector Filter / Presets">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+                        </svg>
+                    </button>
+                    <textarea id="composerInput" placeholder="Explore themes, compare songs, or query ChromaDB vector index..." rows="1" autofocus></textarea>
+                    <div class="composer-right">
+                        <span class="shortcut-hint">Enter ↵</span>
+                        <button class="send-btn" id="sendBtn" title="Execute Query (Enter)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <line x1="12" y1="19" x2="12" y2="5"></line>
+                                <polyline points="5 12 12 5 19 12"></polyline>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RAG Context Explorer (Right Panel) -->
+        <aside class="context-explorer" id="contextExplorer">
+            <div class="context-header">
+                <div class="context-title-group">
+                    <span class="context-label">SEMANTIC SOURCES</span>
+                    <h3>ChromaDB Retrieval</h3>
+                </div>
+                <span class="context-badge" id="sourceCountBadge">0 SOURCES</span>
+            </div>
+            <div class="context-body" id="contextBody">
+                <div class="context-empty" id="contextEmptyState">
+                    <div class="context-empty-icon">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+                            <ellipse cx="12" cy="5" rx="9" ry="3"></ellipse>
+                            <path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"></path>
+                            <path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"></path>
+                            <circle cx="12" cy="12" r="1.5" fill="currentColor"></circle>
+                        </svg>
+                    </div>
+                    <p class="empty-title">No Active Retrieval</p>
+                    <p class="empty-sub">Send a message to query vector embeddings & rank top matching lyric passages.</p>
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <!-- Modal 1: ChromaDB Index Explorer -->
+    <div class="modal-overlay" id="explorerModal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <div class="modal-title-group">
+                    <span class="modal-label">INDEX EXPLORER</span>
+                    <h2>ChromaDB Vector Storage</h2>
+                </div>
+                <button class="modal-close-btn" class="closeExplorerBtn" onclick="closeModals()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <span class="stat-value" id="modalDocCount">--</span>
+                        <span class="stat-label">Indexed Chunks</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">384-D</span>
+                        <span class="stat-label">Vector Dimension</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value">Cosine</span>
+                        <span class="stat-label">Distance Metric</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value" id="modalOllamaStatus">Checking...</span>
+                        <span class="stat-label">LLM Provider</span>
+                    </div>
+                </div>
+
+                <div class="modal-section-title">COLLECTION SCHEMA & DISCOGRAPHY</div>
+                <div class="collection-table">
+                    <div class="table-row table-head">
+                        <span>Song / Track</span>
+                        <span>Album</span>
+                        <span>Year</span>
+                        <span>Chunks</span>
+                    </div>
+                    <div class="table-row">
+                        <span class="song-name">Ultralight Beam</span>
+                        <span>The Life of Pablo</span>
+                        <span>2016</span>
+                        <span class="mono-tag">8 Chunks</span>
+                    </div>
+                    <div class="table-row">
+                        <span class="song-name">Runaway</span>
+                        <span>My Beautiful Dark Twisted Fantasy</span>
+                        <span>2010</span>
+                        <span class="mono-tag">12 Chunks</span>
+                    </div>
+                    <div class="table-row">
+                        <span class="song-name">Off the Grid</span>
+                        <span>Donda</span>
+                        <span>2021</span>
+                        <span class="mono-tag">10 Chunks</span>
+                    </div>
+                    <div class="table-row">
+                        <span class="song-name">Jesus Walks</span>
+                        <span>The College Dropout</span>
+                        <span>2004</span>
+                        <span class="mono-tag">7 Chunks</span>
+                    </div>
+                    <div class="table-row">
+                        <span class="song-name">POWER</span>
+                        <span>My Beautiful Dark Twisted Fantasy</span>
+                        <span>2010</span>
+                        <span class="mono-tag">9 Chunks</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal 2: Persona Graph & Themes -->
+    <div class="modal-overlay" id="graphModal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <div class="modal-title-group">
+                    <span class="modal-label">KNOWLEDGE GRAPH</span>
+                    <h2>Persona & Theme Relations</h2>
+                </div>
+                <button class="modal-close-btn" onclick="closeModals()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p class="modal-desc">Click any theme node to explore vector passages and query the persona archive.</p>
+                <div class="theme-graph-grid">
+                    <div class="graph-card" onclick="selectGraphTheme('Faith & Struggle in Ultralight Beam and Jesus Walks')">
+                        <div class="graph-card-header">
+                            <span class="theme-badge faith">FAITH & REDEMPTION</span>
+                            <span class="node-count">3 Songs</span>
+                        </div>
+                        <h3>Spiritual Struggle & Salvation</h3>
+                        <p>Explores vulnerability, prayer, and divine guidance amidst personal flaws and industry pressure.</p>
+                        <div class="graph-tracks">
+                            <span>Ultralight Beam</span> • <span>Jesus Walks</span> • <span>God Is</span>
+                        </div>
+                    </div>
+
+                    <div class="graph-card" onclick="selectGraphTheme('Vulnerability and heartbreak in Runaway')">
+                        <div class="graph-card-header">
+                            <span class="theme-badge vulnerability">VULNERABILITY</span>
+                            <span class="node-count">4 Songs</span>
+                        </div>
+                        <h3>Heartbreak & Self-Criticism</h3>
+                        <p>Direct exposure of flaws, toxic relationship dynamics, and public isolation.</p>
+                        <div class="graph-tracks">
+                            <span>Runaway</span> • <span>Welcome to Heartbreak</span> • <span>Real Friends</span>
+                        </div>
+                    </div>
+
+                    <div class="graph-card" onclick="selectGraphTheme('Family duty and recurring themes in Off the Grid')">
+                        <div class="graph-card-header">
+                            <span class="theme-badge family">FAMILY DUTY</span>
+                            <span class="node-count">3 Songs</span>
+                        </div>
+                        <h3>Protection, Legacy & Duty</h3>
+                        <p>Protecting children, honoring parents, and carrying family legacy through conflict.</p>
+                        <div class="graph-tracks">
+                            <span>Off the Grid</span> • <span>Violent Crimes</span> • <span>Hey Mama</span>
+                        </div>
+                    </div>
+
+                    <div class="graph-card" onclick="selectGraphTheme('Ambition and ego across early vs late Kanye albums')">
+                        <div class="graph-card-header">
+                            <span class="theme-badge ego">EGO & AMBITION</span>
+                            <span class="node-count">5 Songs</span>
+                        </div>
+                        <h3>Monolithic Ego & Cultural Impact</h3>
+                        <p>Unapologetic ambition, defying industry gatekeepers, and self-proclaimed greatness.</p>
+                        <div class="graph-tracks">
+                            <span>POWER</span> • <span>Stronger</span> • <span>Can't Tell Me Nothing</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

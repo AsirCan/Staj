@@ -1,0 +1,10 @@
+.venv/
+.python-packages/
+__pycache__/
+.pytest_cache/
+.streamlit/
+data/chroma/
+data/raw/songs.jsonl
+data/processed/chunks.jsonl
+.env
+.model-cache/

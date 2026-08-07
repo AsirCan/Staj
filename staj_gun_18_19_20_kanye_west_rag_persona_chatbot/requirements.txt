@@ -1,0 +1,11 @@
+beautifulsoup4>=4.12,<5
+# 1.x Windows icin hazir hnswlib wheel'leri sunar; 0.6.x C++ derlemesi ister.
+chromadb>=1.5,<2
+fastapi>=0.115,<1
+httpx>=0.27,<1
+pytest>=8,<9
+python-dotenv>=1,<2
+requests>=2.32,<3
+sentence-transformers>=3,<4
+streamlit>=1.38,<2
+uvicorn[standard]>=0.30,<1
